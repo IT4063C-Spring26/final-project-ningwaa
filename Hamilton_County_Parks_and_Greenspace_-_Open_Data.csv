@@ -1,0 +1,755 @@
+﻿OBJECTID,NAME,SHORT_NAME,PARKTYPE,COUNTY,SHOW,GLOBALID,CREATED_DATE,LAST_EDITED_DATE,SHAPE__Area,SHAPE__Length
+1,BENGALS PRACTICE FIELD,Bengals Practice Field,County Government,Hamilton,1,22ea86f1-515d-4ada-a145-488e1314f74c,,,51202.95703125,942.29496156959
+2,DELHI TWP. TRUSTEES-DELHI RD. SPRING SITE,Delhi Springhouse,Township,Hamilton,1,ef2baa3e-e66e-42e6-8e10-9554e532d093,,,939.35546875,154.54804406699
+3,YMCA COLERAIN BRANCH,YMCA Colerain Branch,Nonprofit,Hamilton,1,2f0dfb3f-5879-4218-8008-8644631fb8e1,,,88142.1640625,1683.49136640494
+4,Warder Nursery,Warder Nursery,City or Village,Hamilton,1,e82119dc-d789-4c81-9c89-70e90dcbb59b,,,62040.03125,1026.78677369584
+5,NORTON ST. Preserve,Baltimore Run Preserve,Conservation Group,Hamilton,1,609e9c95-faeb-4571-a105-91ba00cd6aa5,,,68262.3515625,3246.79837720757
+6,Village Park,Tunis Park,City or Village,Hamilton,1,7c37c94b-ea1a-4b9b-832e-4ab0bd9e2665,,,6967.22265625,336.140906242524
+7,Gulf Park,Cleves Community Park,City or Village,Hamilton,1,7737633d-0c29-45b2-bf6b-f690860dbf07,,,393983.75390625,2608.99286251303
+8,WEST FORK PARK,West Fork Park,Township,Hamilton,1,c34428c1-8b21-451d-a821-fb39986a9846,,,86699.01171875,1674.74350334292
+9,Broadwell Woods Nature Preserve,Broadwell Woods,Park District,Hamilton,1,488c27db-2ec3-411d-b593-0aa18966941a,,,457978.62109375,3667.17380298896
+10,GREENSPACE-HILLSIDE,Ida Street Open Space,City or Village,Hamilton,1,0e392cc6-0dd0-414d-917a-e90dbc052361,,,2951.12109375,272.472990643135
+11,Memorial Park-Sharon@Waycross,Memorial Park,City or Village,Hamilton,1,e4c2633f-b3a4-4ee5-b371-50f6fc74e5b2,,,846.69140625,115.438845380649
+12,Central Park,Central Park,City or Village,Hamilton,1,731ab970-fa80-446c-97f4-2dced8a349fb,,,123886.52734375,1622.42192839808
+13,MILVALE ELEMENTARY SCHOOL,Millvale Elementary School,Schools-Public,Hamilton,1,a37edd51-7a5e-4903-bd44-984dc55e25ad,,,23168.62109375,854.117287681644
+14,MCQUEETY MEDIAN,McQueety Median,City or Village,Hamilton,1,d5c781d9-fb31-4fd3-904b-4d8760bfd074,,,4284.5703125,1017.86981345954
+15,Knights of Columbus Sports Park,Knights of Columbus Sports Park,Other Private,Hamilton,1,610d2fc3-3899-43b8-9be1-0179db394b1e,,,121023.9296875,1408.61918144796
+16,Veterans Memorial Park,Veterans Memorial Park,City or Village,Hamilton,1,031d3042-3461-4e72-a9e3-e920961b0686,,,4655.08984375,270.717903403156
+17,Spring Grove Village Recreation Area,Spring Grove Village Recreation Area,City or Village,Hamilton,1,70cc7fa9-1a78-431a-8dec-06d0807787d7,,,92938.375,1409.95993238747
+18,DRY FORK PARK,Whitewater Township Community Park,Township,Hamilton,1,ee3c6a5e-4e23-4530-bb48-694af1fc3d42,,,94865.56640625,1338.48883361661
+19,Phillips Park,Phillips Park,City or Village,Hamilton,1,b8ded717-490c-4f9a-a2bc-c54ff5ab2ceb,,,609973.3046875,4276.76125840599
+20,WASHINGTON AVENUE PARK,Washington Park,City or Village,Hamilton,1,ad3169a5-080f-47b6-af09-9b30688c7299,,,68148.44921875,1057.3905397424
+21,BRENTWOOD PARK,Brentwood Park,Township,Hamilton,1,caf17923-e1f4-474e-b2fd-98acd81f85dc,,,59017.76171875,1705.0925481993
+22,Northbrook Civic Assoc. Fields,Northbrook Civic Center Fields,Clubs-Members Only,Hamilton,1,44fa0bdd-9c1a-4b17-9145-d196ef13ad03,,,186010.26171875,2300.70694233207
+23,Whittier Garden Park,Whittier Garden,Nonprofit,Hamilton,1,4d98cd22-96e6-4383-8e11-fd1beb891809,,,11351.91796875,433.375204613079
+24,Aiken High School,Aiken High School,Schools-Public,Hamilton,1,da75ad41-15b6-432d-9eb4-e97583a3004d,,,311133.24609375,4692.26752004522
+25,COOMBE PRESERVE,Coombe Preserve,Conservation Group,Hamilton,1,3726f3a4-8bb6-4c00-a116-ef8aa5c967ef,,,12336.59375,642.687679422935
+26,Harrison Tomb State Memorial,William Henry Harrison State Memorial,State Government,Hamilton,1,eaad0cc5-7058-4a80-97fd-9dd3bcd8cc95,,,62746.55078125,1125.97883733094
+27,Pleasant Ridge Elementary,Pleasant Ridge Elementary School,Schools-Public,Hamilton,1,4136e974-9286-4789-98bf-662a188339ff,,,42460.546875,957.383774593932
+28,Riverside Park,Riverside Park,Township,Hamilton,1,b0680add-4be7-45fc-a344-2f0aab776ca4,,,315783.328125,3281.44435417164
+29,Ludlow Grove Park,Ludlow Grove Park,City or Village,Hamilton,1,da4eda63-6188-4e04-977c-3e14d02ec837,,,37094.6484375,1236.18868659796
+30,Twin Creek Preserve,Twin Creek Preserve,Conservation Group,Hamilton,1,bf0a7ae6-409b-43d0-b0b8-967937239987,,,173907.6171875,2018.89686100026
+31,STORY WOODS PARK,Story Woods Park,Township,Hamilton,1,07daeb07-9e55-49db-b568-adb098d1a412,,,232303.36328125,2614.24918843747
+32,WHITACRE PARK,Whitacre Park,City or Village,Hamilton,1,86951ad1-fbda-455d-9a13-da3f8cc1667c,,,116216.37109375,1560.6790235698
+33,STEPHAN FIELD PARK,Stephan Field Park,City or Village,Hamilton,1,f96d533c-20a5-432b-baf5-00afa72af247,,,102686.71875,1282.5302985374
+34,BLUE ROCK PARK,Blue Rock Park,Township,Hamilton,1,6006a588-27eb-4913-8f40-b68c67c031ca,,,71512.98046875,1367.46056436271
+35,STONEBRIDGE PARK,Stonebridge Park,Township,Hamilton,1,ba2653d5-462b-435e-ac35-027ef7e07bb3,,,38614.171875,1111.38815732075
+36,CORPUS CHRISTI SPORTS COMPLEX,Corpus Christi Sports Complex,Ball Field,Hamilton,1,898ef18e-bb06-49a7-9edd-f066a7b55db7,,,219683.40234375,2098.28022380963
+37,OAKLEY RECREATION COMPLEX ,Eastside Recreation Center,City or Village,Hamilton,1,f8a2d29e-0b52-4ad3-868d-8123ee49016c,,,100325.19921875,1525.42539577736
+38,Fairview-Clifton German Language School,Fairview-Clifton German Language School,Schools-Public,Hamilton,1,5fba0362-bb24-462a-8804-ff0ef36a61c2,,,6760.47265625,468.631194190883
+39,George H. Waldmann Memorial Park,George H. Waldmann Memorial Park,City or Village,Hamilton,1,ca883140-6827-4921-aceb-7d407855d649,,,2541.73828125,230.673958426269
+40,Heritage Park,Heritage Park,Township,Hamilton,1,6f26892b-5bfe-4fb1-9b20-c57c89146731,,,860707.78515625,3848.01044030224
+41,SCHILLER/HUGHES RECREATION AREA ,Schiller/Hughes Recreation Area,City or Village,Hamilton,1,c073131c-b377-4853-bd04-3104cd2e7464,,,2935.71875,250.625595733827
+42,STANLEY ROWE ARBORETUM,Stanley Rowe Arboretum,City or Village,Hamilton,1,078efc53-b047-406a-b8d6-5322965353ee,,,91841.1015625,1912.81313463365
+43,EBERSOLE RECREATION CENTER,Ebersole Community Center,City or Village,Hamilton,1,6a29391a-e365-4132-a5fd-bac39ce1f744,,,6998.328125,346.523780516309
+44,DELHI PIKE PRESERVE,Delhi Pike Preserve,Conservation Group,Hamilton,1,7a78cabf-3245-4bf3-8261-a4fd763c35d7,,,6300.63671875,463.950272997435
+45,Mt. Storm ,Mt. Storm Park,City or Village,Hamilton,1,20c92eae-e1bb-4f07-98b0-5a83e8aeaab7,,,491621.34375,3029.71448976662
+46,Lindner Park,Lindner Park/McCullough Estate Nature Preserve,City or Village,Hamilton,1,539e440d-7168-437f-ba21-5265c929aa24,,,97843.85546875,1671.55791512997
+47,MONTGOMERY MUNICPAL POOL,Montgomery Open Space,City or Village,Hamilton,1,8840a632-0c66-4fde-ade0-a55cdc63a0f3,,,4185.5859375,262.50536075672
+48,FARWICK FIELD,Little Fenway Park,Ball Field,Hamilton,1,c682eea2-dfd3-4d9d-b7ed-ba203f8f432c,,,158994.23828125,1969.76449207624
+49,SWAN GABLE PARK,Seven Gables Park,Township,Hamilton,1,fbd5d344-20a4-4a8d-a229-5a773f31149d,,,50132.80859375,998.458371933957
+50,Evanston Recreation Center,Evanston Recreation Center,City or Village,Hamilton,1,b9542881-481c-487f-8a4e-b025a09d4ebe,,,27311.99609375,724.453355142223
+51,PADDOCK AND TENNESSEE RECREATION AREA ,Paddock and Tennessee Recreation Area,City or Village,Hamilton,1,37faf5e4-0d2e-465c-b100-405dc5805898,,,33201.5078125,1024.32303263176
+52,CALDWELL SPORTS COMPLEX ,Caldwell Sports Complex,City or Village,Hamilton,1,ed8fc042-cc58-4e1e-a332-b44e3f4bce7b,,,100322.109375,1261.95765749184
+53,Kemper Sports Park,Kemper Sports Park,City or Village,Hamilton,1,cc96ee2d-16d0-46ea-9677-5747f236abe6,,,80399.296875,1234.69997323433
+54,Quarry St. Preserve,Quarry St. Preserve,Other Private,Hamilton,1,e57d0f55-de02-4197-ae2c-239b04d5bc1f,,,85067.4296875,2440.41985922412
+55,MEADE PRESERVE,Meade Historic Preserve,Township,Hamilton,1,d5f20d26-f26e-4994-ab3a-233499387a03,,,182532.94140625,2608.01329584437
+56,Washington Park,Washington Park,City or Village,Hamilton,1,92b44fc2-673c-48c9-a0ef-58e0779c6033,,,49241.68359375,942.009185656806
+57,Northern Row Park,Northern Row Park,City or Village,Hamilton,1,5911f2b0-11ad-46ab-99db-5a9c763fa85c,,,956.1484375,125.730240637411
+58,Morris Park,Morris Park,City or Village,Hamilton,1,6e675a27-72ee-4f32-bb3f-42f1ecac47d6,,,4232.44140625,357.173689678543
+59,AULT PARK,Ault Park,City or Village,Hamilton,1,424227d1-40fa-4552-939c-1f80a9c68cec,,2025/11/04 18:35:04+00,1523666.11328125,7967.46749111661
+60,Olden Playground,Olden Recreation Area,City or Village,Hamilton,1,76a7884c-9d9c-40df-9eba-ba7a8d1faf9f,,,7800.734375,411.37747624925
+61,CARMALT RECREATION AREA ,Carmalt Recreation Area,City or Village,Hamilton,1,54f4a61b-299e-41ed-ad69-d8af1f8e6a89,,2025/10/31 13:24:07+00,5212.03125,363.524520516278
+62,WEST FORK RECREATION AREA ,West Fork Recreation Area,City or Village,Hamilton,1,294c53c0-4ed5-4f71-be05-a341a59e8097,,2025/04/15 17:26:38+00,37748.33984375,1293.97060640721
+63,Kennedy Heights Playground,Kennedy Heights Recreation Area,City or Village,Hamilton,1,9854a802-7b5f-4e01-a826-f31280098e18,,2025/04/15 16:11:04+00,26781.9375,674.514104846784
+64,WOODFORD PARK,Woodford Park ,City or Village,Hamilton,1,db8e4df3-59f5-4bfa-9b4f-50911deec776,,2025/10/31 13:18:20+00,11661.9296875,488.410477222827
+65,Mohawk Park,Mohawk Park,City or Village,Hamilton,1,17c097b8-3b0f-449b-aca9-5692e71e49e4,,,614.1171875,108.756567197857
+66,SPRING STREET RECREATION AREA ,Spring Street Recreation Area,City or Village,Hamilton,1,2619c98c-ab6a-4fcd-8004-c6fc6c8c6a89,,,2641.5234375,214.270076816807
+67,McGary,Great Parks McGary,Park District,Hamilton,1,087dd952-95d0-4dc5-a703-d61ed94955dc,,,721574.7578125,7445.77820405503
+68,Mt. Airy Forest,Mt. Airy Forest,Park District,Hamilton,1,7ebaceba-2199-4bfd-bc18-8dbde7bdd449,,2025/10/28 18:18:59+00,9623344.29296875,24351.6871218842
+69,Hawkins Recreation Area,Hawkins Recreation Area,City or Village,Hamilton,1,6b84a4d1-2340-4104-9b16-29b936ddbbf2,,2025/04/15 16:03:02+00,18487.71875,543.958928767518
+70,South Fairmount Recreation Area,South Fairmount Recreation Area,City or Village,Hamilton,1,d35583c1-8bc8-411a-9dd4-0bb976cc70c3,,,31650.8515625,735.913581148328
+71,Sayler Park Recreation Center,Sayler Park Recreation Center,City or Village,Hamilton,1,52ad80e3-c740-4a67-b98a-79a200f7964b,,,71663.671875,1549.39804657627
+72,Johnston Park,Johnston Park,Park District,Hamilton,1,3abb08b8-b920-4616-bb39-bc0c0ff19f03,,,8335.5390625,632.248081426339
+73,Lytle Park,Lytle Park,City or Village,Hamilton,1,7d753cb0-54a1-4c3c-9653-e35556fbaa3e,,2025/10/31 13:16:51+00,18902.1340122819,658.901564629921
+74,Taft Field,Camp Washington Recreation Center,City or Village,Hamilton,1,ce9b3c24-af50-4636-9f95-3948ba31826d,,,20781.9453125,599.119030360413
+75,Victory Parkway - U.S. Navy Reserve,Victory Parkway - U.S. Navy Reserve,City or Village,Hamilton,1,48b5042f-5785-4e68-8364-3381c2cb7e51,,,70914.35546875,2012.58779604124
+76,Montgomery Triangle,Montgomery Triangle,Park District,Hamilton,1,6daf6dec-17bf-4865-967d-26b3c1aac334,,,1363.77734375,160.811625653345
+77,Woodford Elementary School,Woodford Elementary School,Schools-Public,Hamilton,1,36d484cc-09ff-4279-b24d-4b741b87e331,,,97298.09765625,2037.18173765713
+78,Anderson Place Recreation Area,John P. Parker School,City or Village,Hamilton,1,c8469b0d-c9d7-47cc-913b-b67e37dbe2eb,,2025/04/08 15:52:02+00,93692.16796875,1375.14036134706
+79,Carthage Paideia-Academy,Carthage Paideia-Academy,Schools-Public,Hamilton,1,62e654d4-b134-4749-b0dd-a9226a3a75df,,,13712.2578125,869.560537941864
+80,Lunken Airport Trail,Lunken Airport Bike Trail,Park District,Hamilton,1,5d7efc35-40a1-4446-9f22-0f34a77bec8b,,,84402.037653923,22609.2086243621
+81,Sands Montessori Elementary,Sands Recreation Area,,Hamilton,1,0dad2e5d-7603-47ba-91ff-ae1a81998f3d,,2025/10/31 14:15:00+00,84124.4930216819,1301.39747253917
+82,Calhoun Plaza,Calhoun Plaza,City or Village,Hamilton,1,f79fca62-98b5-4cb0-9ac5-9c7def0e77c9,,,1111.53515625,132.846570487946
+83,Inwood Park,Inwood Park,Park District,Hamilton,1,5a1114ab-d6fb-4faa-94b8-dd62c7bf47cf,,2025/10/29 20:17:03+00,140956.828125,2168.88318484992
+84,Liberty Street Park,Liberty Street Park,City or Village,Hamilton,1,43bbc238-2baa-4b74-914c-ae15b8d1b389,,2025/10/31 12:28:32+00,2781.63671803474,328.541283750182
+85,Hays-Porter School,Hays-Porter School,Schools-Public,Hamilton,1,90831cd2-f612-4914-9034-e779c7e47911,,,44935.83203125,1626.45588076457
+86,SKYLINE PARK,Skyline Park,Township,Hamilton,1,6dda04d1-29b6-4594-bcb3-9998c10dc03f,,,6466.07181474566,345.9865741541
+87,CARRUTHERS PARK,Carruthers Park,City or Village,Hamilton,1,a68fc418-c5a0-48bc-8bc8-78c68db8a503,,,4050.44760704041,244.240319219622
+88,WELLER PARK,Weller Park,City or Village,Hamilton,1,2bf33222-2188-4bf7-9bb0-4031ba76c467,,,133904.28515625,1693.56380161674
+89,STOLL LN PARK,Stoll Lane Park,City or Village,Hamilton,1,ab978abc-0964-47d3-9507-db1377222b6c,,,3640.08984375,376.443391874255
+90,GLENVIEW PARK,Glenview Park,City or Village,Hamilton,1,c8444a29-0b79-4f2a-84af-6df898d1905c,,,15551.39453125,804.323206728795
+91,Fay Apartment Tot Lot 2,Fay Apartment Tot Lot 2,Other Private,Hamilton,1,4656aea8-5af7-4811-b4d4-f03a9d92957b,,,283.2265625,66.5498588847169
+92,MUCHMORE PARK,Muchmore Mark,Township,Hamilton,1,31dd9c7e-1f43-4181-a553-8c0d503af215,,,8354.3671875,483.42617765612
+93,Kroger Hills Conservation Area,Kroger Hills Conservation Area,State Government,Hamilton,1,55437d2e-c244-4684-8125-6f8c1e60d730,,,855939.0703125,6113.72978405268
+94,Westwood Community Garden,Westwood Community Garden,City or Village,Hamilton,1,2f3bd2b1-1ecd-41bc-b7ca-ced6ac34d4c0,,,3263.79296875,237.399110538875
+95,Riverview East Academy,Riverview East Academy,Schools-Public,Hamilton,1,565d6442-ad4d-4d32-a9ed-ec924200cc8e,,,60361.3125,2115.09464356339
+96,Five Mile Trail,Five Mile Trail,Township,Hamilton,1,b29fba4e-e47f-4c79-a1c7-4fafb0728722,2025/04/08 15:06:11+00,2025/04/08 15:09:30+00,57492.56640625,9823.46695541832
+97,McEvoy Recreation Area,McEvoy Recreation Area,City or Village,Hamilton,1,35253904-18eb-4d61-9cc6-890f5110df9d,2025/04/15 16:20:50+00,2025/04/15 16:22:10+00,54845.9609375,1063.76125687938
+98,Leblond Recreation Center,St. Rose Recreation Area,,Hamilton,1,742511de-0fbe-4fcf-b3f6-0de9e745b88b,2025/04/15 17:20:04+00,2025/10/31 14:15:05+00,11037.40625,425.173495399317
+99,Woodward Career Technical High School,Woodward Recreation Area,City or Village,Hamilton,1,94c1fe0c-6843-4d71-804e-32138bdb16f2,2025/04/15 19:11:09+00,2025/04/15 19:12:56+00,31483.51953125,746.874811891425
+100,TOWER PARK,Water Tower Park,City or Village,Hamilton,1,6ac2eedc-580c-45e6-9063-6620d2979c76,2025/06/12 14:50:49+00,2025/06/12 14:50:49+00,10460.8046875,426.246282142769
+101,Burton Elementary School,Burton Elementary School,Schools-Public,Hamilton,1,e34121ca-bdc1-435b-b35d-d25f7cfb2517,2025/10/31 13:46:04+00,2025/10/31 13:50:43+00,42504.0828508735,1253.80213806005
+102,ROTHENBERG ELEMENTARY SCHOOL,Rothenberg Elementary School,Schools-Public,Hamilton,1,c5093302-c5f0-4d80-93fd-7c0fd62100ec,,,4448.546875,281.259490380807
+103,Stephanie Hummer Memorial Park,Stephanie Hummer Memorial Park,Township,Hamilton,1,bbbfb5c7-9061-46c7-8aef-f829f30f5fe2,,,96465.54296875,1405.20587344576
+104,Unknown Greenhills Site,Greenhills Open Space,City or Village,Hamilton,1,45ad33f2-8be1-4d4d-a793-3cbb4a45e671,,,4263.3828125,531.147580924638
+105,Evendale Parcel-Griffin 26 acres.,Griffin Family Nature Preserve,City or Village,Hamilton,1,b39e0f51-3de8-42dd-80fc-d00a4627e2ec,,,178463.80859375,2287.7781898065
+106,COLERAIN PARK,Colerain Park,Township,Hamilton,1,75226c3c-cdb3-4ad0-a056-9b48fc2354a3,,,142120.3203125,1757.10865211587
+107,JONTE PARK,Jonte Park,City or Village,Hamilton,1,c9140f84-e5e9-4ba7-8ccb-f1d1341dd231,,,65658.828125,1163.04545168526
+108,Crutchfield Park,Crutchfield Park,Township,Hamilton,1,28dbeabd-e2ef-4746-a458-10bd176391aa,,,70216.8671875,1065.77692868894
+109,WYOMING BUFFER LAND-ROLLING HILLS,Camp John McLean Memorial Park,City or Village,Hamilton,1,206d7a97-baa8-4636-8bff-c9bee3e18456,,,30398.82421875,1249.92858066444
+110,Symmes Township Park,Symmes Township Park,Township,Hamilton,1,d22f575f-d7b3-4f07-92cd-36eb831375dc,,,420425.81640625,3900.59668587214
+111,Lexington Heights Park,Lexington Heights Park,Township,Hamilton,1,b7d5d94d-ad46-4ce6-accc-8e85612549af,,,48452.890625,1600.20872002608
+112,Mariemont Town Square,Mariemont Town Square,City or Village,Hamilton,1,94eb5902-6ee2-4c0e-ac4f-9ffba064dec9,,,1504.16796875,173.18590533084
+113,Spring Grove Cemetery,Spring Grove Cemetery,Cemetery,Hamilton,1,d39117bb-76ad-4fce-829e-14815c2946ac,,,5033045.375,12771.9599028149
+114,Pioneer Cemetery Park,Memorial Pioneer Cemetery,City or Village,Hamilton,1,df6797c5-ef58-49cf-93cd-a9d82171df8a,,,15281.4921875,508.744912862416
+115,CROSBY TOWNSHIP PARK,River Road Park,Township,Hamilton,1,7198765e-9073-4974-97fa-aa4813177688,,,16498.0413198471,617.787234660785
+116,NEWTOWN UNK. PARK MAIN TO PLUM-W. OF CHURCH ST.,Mini Park,City or Village,Hamilton,1,ebf0d01b-f14d-4d12-8ef0-f0e232540326,,,5125.63671875,436.953910798516
+117,KANTER PARK,Kanter Park,City or Village,Hamilton,1,cbe9748f-dbd2-40f6-8444-0a2bc360bab9,,,81907.45703125,1222.92289064764
+118,Johnson Alley Park,Johnson Alley Park,City or Village,Hamilton,1,74097795-5a70-43e5-8c9d-b9cdf01cfa6b,,,2047.7109375,188.684493201371
+119,IRELAND/JULEP PARK,Greenhills Open Space,City or Village,Hamilton,1,bbf0fa27-79e7-42e9-8ea4-f8b94433bba9,,,2022.44921875,175.635435532677
+120,Seasongood Square,Seasongood Square,City or Village,Hamilton,1,e5486ab1-c9b7-49f1-8bce-2afa6bcd6f6e,,,18832.6989197731,611.910747119238
+121,HILLTOP PARK,Hilltop Fields,Ball Field,Hamilton,1,bbd6072a-95d2-41bf-9055-1d9362c1dd91,,,71149.19921875,1120.91690989241
+122,WYOMING RECREATION CENTER,Wyoming Recreation Center,City or Village,Hamilton,1,c017fe2f-827c-41c4-a0f3-52ca9ee7b626,,,79774.17578125,1170.22588174512
+123,Owl's Nest Park,Owl's Nest Park,City or Village,Hamilton,1,1773e62a-31a3-42b8-b03d-a31b9bc931b9,,,70457.703125,1185.94639042891
+124,LAVERTY LANE PARK,Laverty Park,Township,Hamilton,1,209da2ec-9171-423a-aa25-380d66bd41a3,,,61853.17578125,1500.33810414707
+125,Caldwell Nature Preserve,Caldwell Nature Preserve,City or Village,Hamilton,1,fe0df0f7-5416-47ee-bba0-a536f54574a4,,,772139.60546875,6110.38915900384
+126,Dandridge Gardens,Dandridge Gardens,Nonprofit,Hamilton,1,e7b377c5-cfa1-4991-b36c-268488cf8dd8,,,4150.30078125,286.379154073223
+127,LITTLE PARK,Van Cleve Park,City or Village,Hamilton,1,b55b2fc2-4b72-4386-a0e0-18c48bd2bc79,,,2506.58984375,205.659551017273
+128,State & Nagel Park,State & Nagel Park,Township,Hamilton,1,09c344bd-6bfb-4e28-837b-d70c71e89f77,,,33499.03125,825.623588767992
+129,DRAVO PARK,Obergiesing Soccer Complex at Dravo Park,Ball Field,Hamilton,1,ab223b01-5336-4880-b6b8-1c421d2eae56,,2025/06/12 15:19:25+00,148490.879435062,2134.61522187779
+130,MONTGOMERY PARK,Montgomery Park,City or Village,Hamilton,1,c56670fc-91b3-423c-9b8d-353094f6bfd5,,,55286.35546875,982.560806778824
+131,Alpine Park,Alpine Park,City or Village,Hamilton,1,f544f8d1-8e21-4f64-8fd1-9f08a70b2a08,,,16609.9921875,867.881376063174
+132,Gower Park,Gower Park,City or Village,Hamilton,1,6c631b94-03a5-4664-813d-dad801ac8a2f,,,59024.7775998116,1050.18582957687
+133,Sherman Recreation Area,Sherman Recreation Area,City or Village,Hamilton,1,da809867-0997-4c48-a91b-600b37ad6f15,,2025/04/15 17:10:18+00,53738.55859375,1454.92223302994
+134,Mary Emery Park,Mary Emery Park,City or Village,Hamilton,1,b0dea542-a307-4d86-af57-0095bb92c4ae,,,2639.11328125,225.069867160476
+135,EGGLESTON'S SOFTBALL COMPLEX,Eggleston's Softball Complex,Other Private,Hamilton,1,ce51a6a7-0805-44a1-9dc1-be7c9cd921e9,,,210199.08203125,2593.61241780127
+136,PLEASANT RIDGE RECREATION COMPLEX ,Pleasant Ridge Recreation Center,City or Village,Hamilton,1,97e6fbc4-edd1-4b82-9c6e-b13d81b95c07,,2025/04/15 16:47:34+00,59288.6640625,1147.6947250209
+137,LINWOOD HUTTON RECREATION AREA ,Linwood Hutton Recreation Area,City or Village,Hamilton,1,233c7dbe-cc44-46d8-a420-56d9e1bfba25,,,62370.66796875,1181.87884359905
+138,VETERANS PARK,Veterans Park,Township,Hamilton,1,de1e0f2e-5c30-462b-8a99-bab791ca97d1,,,141502.595230341,1554.45390861583
+139,PLAYFIELD,Water Works Park,Ball Field,Hamilton,1,6a60ae90-7cff-4362-9501-ce151d5e15d5,,,47247.421875,956.120576537436
+140,Losantiville Triangle,Losantiville Recreation Area ,City or Village,Hamilton,1,9475b9e0-a1a6-4439-a4ee-668278eced10,,2025/04/15 16:12:29+00,32362.0259811259,857.388265397286
+141,Glenway Woods Nature Preserve,Glenway Woods Nature Preserve,Park District,Hamilton,1,8e2db96d-9afd-49b6-9e06-4895491751ee,,,280279.60546875,3424.83636147336
+142,Heritage Park,Heritage Park,City or Village,Hamilton,1,77ec8529-3138-4fee-8bf2-bc452a8eec1c,,,58718.97265625,1290.38560675954
+143,Bruening Park,Bruening Park,City or Village,Hamilton,1,b6c0471b-a04b-459b-9ff1-b9c7c03ac328,,,108266.85546875,1919.63886622349
+144,SACRED HEART RECREATION AREA ,Sacred Heart Recreation Area,City or Village,Hamilton,1,6a5883f5-507d-42af-81bb-5beedcfdcdd0,,2025/11/04 18:31:40+00,29614.02734375,714.191707877957
+145,IMAGINATION ALLEY RECREATION AREA,Imagination Alley,City or Village,Hamilton,1,6ff041e9-7d52-4031-8541-ad30ecc9dc2e,,2025/10/31 14:39:35+00,1125.91015625,174.600067244429
+146,Bishop Park,Bishop Park,City or Village,Hamilton,1,d90541e0-5e78-4c76-bcf5-03f4bb9434e5,,,1039.09765625,152.245820698681
+147,Miles Edward Park,Miles Edward Park,City or Village,Hamilton,1,6001ddb8-a828-467d-a334-21f7838aa118,,,253301.00390625,2580.29872290149
+148,Whitewater Township Greenspace,Whitewater Greenspace,Township,Hamilton,1,3778bb9f-4e83-4b7a-b5f2-67ad9ae055bc,,2025/05/08 19:16:55+00,67419.73046875,1226.17290769443
+149,MADISONVILLE RECREATION COMPLEX,Madisonville Recreation Center,City or Village,Hamilton,1,3512ff34-937f-4f7a-a149-c29b408b5bbd,,,55795.32421875,1073.02111044268
+150,Victory Parkway - Xavier Fields,Victory Parkway - Xavier Fields,City or Village,Hamilton,1,2b357b58-9eff-4a21-8fa0-3d51eead1085,,,128690.53125,2202.86071552233
+151,Chisholm Park,Chisholm Park,City or Village,Hamilton,1,67d5a42f-da41-454c-a297-84ee672991d4,,,39237.078125,1454.72468648908
+152,Farbach-Werner Nature Preserve,Farbach-Werner Nature Preserve,Park District,Hamilton,1,d69568d5-2cb8-4d87-8797-1d0a900b54ea,,,149360.828125,1821.77982159146
+153,Newberry Wildlife Sanctuary,Newberry Wildlife Sanctuary State Nature Preserve,Park District,Hamilton,1,5045be02-392e-4de0-876b-1bf80675937b,,,673471.1171875,3906.14550365473
+154,Richardson Forest Preserve,Richardson Forest Preserve,Park District,Hamilton,1,488b9655-622e-4e1b-a1d2-cc980c1447ca,,,2758602.86328125,17973.415896445
+155,College Hill Elementry Playground and Land,College Hill Fundamental Academy Playground,Schools-Public,Hamilton,1,8808d139-da87-4ffc-92b6-8ef9eeb965de,,,12012.82421875,756.705507059876
+156,Juran Easement,Juran Easement,Conservation Group,Hamilton,1,93660ca0-4e3d-4f3c-9ee0-030537daec55,,,19478.95703125,837.020644915873
+157,Smale Anniversary Gardens,Smale Anniversary Gardens,Park District,Hamilton,1,bec7a955-448f-404e-aee6-c9247d28f9fa,,,7564.8125,1011.18272351637
+158,Procter and Gamble Greenspace,Procter and Gamble Greenspace,Private Commercial,Hamilton,1,10f59755-005f-47cb-bd6c-e51b1c72ef3f,,,15298.8828125,745.925202500601
+159,Western Hills Athletic Fields,Western Hills Athletic Fields,City or Village,Hamilton,1,de15f811-9ed1-4c9d-ab3b-331beeda982b,,,163220.04296875,4231.76439105038
+160,Dunham Bike Trail,Dunham Bike Trail,City or Village,Hamilton,1,e9803a0c-a6c2-4d64-846a-2753962942fb,,,8954.8125,1213.85869875236
+161,Gamble Montessori Land,Gamble Montessori Land,Schools-Public,Hamilton,1,9d52442d-262d-4c00-9a08-7999cb290abc,,,143533.8984375,2842.27814345516
+162,Bradford-Felter Tanglewood Preserve,Bradford-Felter Tanglewood Preserve,Park District,Hamilton,1,d8976ba0-11ad-4555-b081-d57bce1a1cb4,,2025/10/29 20:08:31+00,1961458.76953125,18532.4604331693
+163,Mill Creek Valley Greenway,Mill Creek Valley Greenway,Conservancy District,Hamilton,1,4a993a68-98f1-4783-8735-68b14c61974a,,,770813.1015625,24287.9812735905
+164,Scarborough Woods,Scarborough Woods,Park District,Hamilton,1,064d1b17-f7a7-4162-a58c-12c7676815d7,,,31792.8125,1238.03864371909
+165,Mt. Washington Recreation Center,Mt. Washington Recreation Center,City or Village,Hamilton,1,7019759e-e329-420f-ac73-dc0f3540b0af,,,40516.24609375,1174.99298200474
+166,Columbia Parkway,Columbia Parkway,City or Village,Hamilton,1,3a051674-91ef-4431-83d1-4c685dc4cd01,,2025/10/31 14:41:52+00,264257.1484375,19728.1979364755
+167,Harriet Beecher Stowe Park,Harriet Beecher Stowe Park,State Government,Hamilton,1,af103d9f-8e9e-47bc-b733-5617c8e38c07,,2025/04/08 16:21:47+00,8947.65096360445,404.893325147862
+168,Rice/Loth Playground,Rice Recreation Area,City or Village,Hamilton,1,fc2e369a-b3f2-46a7-bd4c-cc0350489c6d,,,3097.54296875,281.772725449259
+169,Fairview Park,Fairview Park,Park District,Hamilton,1,f9024b18-aefd-4e53-85a0-e127b657fd75,,,213336.15625,3892.82034234051
+170,Twelfth/Broadway Playground,Twelfth and Broadway Recreation Area,City or Village,Hamilton,1,ae6a21e6-dae7-4bac-a8ef-7cca2263230e,,2025/06/23 13:57:30+00,967.3671875,145.441391894346
+171,Koening Park,Koening Park,City or Village,Hamilton,1,85d4bb8c-7b21-4f58-b040-46425d703cd6,,,66841.296875,1038.76817047624
+172,Bird Sanctuary,Bird Sanctuary,City or Village,Hamilton,1,35ba266c-eb78-437b-a771-466d5057dc3f,,,13218.66796875,473.233380566563
+173,COLERAINE HERITAGE MEMORIAL,Coleraine Heritage Memorial,Township,Hamilton,1,27bfe36c-82ca-4776-a860-b539d4a71864,,,2030.31640625,183.048506020756
+174,VILLAGE SQUARE FOUNTAIN,Village of Glendale Square Fountain,City or Village,Hamilton,1,98ba80b9-2d34-4d87-b72b-6fa6ed69ff1c,,,317.215849429369,87.2243220059621
+175,WEST LOVELAND NATURE PRESERVE,West Loveland Nature Preserve,City or Village,Hamilton,1,66df5dfb-2ca7-449f-aa29-55aacd7c1abb,,,364410.71484375,7410.29142737874
+176,Bicentenial Park,Bicentennial Park,City or Village,Hamilton,1,d05b2377-a3d7-4fa0-94c8-3d20c9353822,,,2087.1328125,188.098786440993
+177,Lower Millcrest Park,Lower Millcrest Park,City or Village,Hamilton,1,b915e1c0-c200-43d4-ae53-e691c0c9da3b,,2025/04/15 17:09:41+00,157978.16796875,1749.18729591383
+178,READING POOL,Reading Community Pool,City or Village,Hamilton,1,c1abad3c-e978-4f0b-bc0e-1f61ca85a6a1,,,23426.625,633.476073280028
+179,CAMERON PARK,Cameron Park,City or Village,Hamilton,1,b2bcd862-38a8-4580-b3a0-ee902a7aed7c,,,29253.5390625,828.111526436479
+180,LARONA PARK,Larona Community Park,Other Private,Hamilton,1,ea08fe68-7f08-4ff1-ad48-e854e5f6e013,,,2828.6484375,212.872017396964
+181,North Fairmount Playground,North Fairmount Recreation Area,City or Village,Hamilton,1,6f96882e-0682-4ca9-907d-7d4403a2e6e3,,,10658.140625,416.578965994105
+182,LINN AND LIVINGSTON PLAYGROUND,Linn and Livingston Playground,City or Village,Hamilton,1,40cd9436-39da-448d-a6a3-8806eec76fa0,,,2947.8984375,390.253098711325
+183,,Cincinnati Achievement Academy,Schools-Public,Hamilton,1,ecebcd5b-a48a-49f8-a82a-6f68097766f0,,,84403.5859375,2074.80394712141
+184,Turkey Ridge Park,Turkey Ridge Park,City or Village,Hamilton,1,b9b6548c-6323-4782-919b-8ee9af4028f1,,2025/10/30 20:00:06+00,58107.96484375,1521.6620792678
+185,Anderson Place Recreation Area,Anderson Place Recreation Area,City or Village,Hamilton,1,2b000c8a-52d8-4008-b382-0ff9ad1e9e83,2025/04/08 15:53:01+00,2025/04/08 15:53:36+00,7716.38924556971,376.07802811508
+186,Black Music Walk of Fame,Black Music Walk of Fame,County Government,Hamilton,1,671bd816-2158-49a2-8d8d-d817945ac5e7,2025/04/08 16:23:04+00,2025/04/08 17:47:04+00,3759.78766623512,245.639794618526
+187,Fox Preserve,Fox Preserve,,Hamilton,1,8ee3df67-c44f-49f1-a3d0-576ace4c66b1,2025/10/28 18:24:04+00,2025/10/31 14:14:58+00,106595.453125,1670.63913360515
+188,Western Wildlife Corridor,Western Wildlife Corridor,Conservancy District,Hamilton,1,9e8a211c-1216-448f-acca-60c6682d145d,,,86060.546875,1283.27519625866
+189,Drake Park,Drake Park,City or Village,Hamilton,1,3874f1eb-1c94-4a4a-aa99-112378c620c5,,,30558.5859375,754.444190372088
+190,Oakwood Park,Oakwood Park,City or Village,Hamilton,1,d4739977-02b1-4fbf-9e33-739392bc8d9d,,,23515.52734375,685.980387017616
+191,ERNIE STAPLETON PARK,Ernie Stapleton Park,City or Village,Hamilton,1,bb05d18f-a2cf-4220-afa0-1a7935e86fb4,,,3792.45962620154,286.249181656149
+192,LEVER PARK,Lever Park,City or Village,Hamilton,1,48915ff5-e1e5-4895-906d-11d89293850f,,,38792.51171875,890.958388998951
+193,Sycamore Hill Park,Sycamore Hill Park,City or Village,Hamilton,1,5e853511-dab5-4b19-8d5e-dce45cdd992f,,2025/10/31 13:21:02+00,19798.3125,1214.30756829387
+194,VILLAGE HISTORICAL SOCIETY,Harrison Historical Society,Nonprofit,Hamilton,1,9024e362-bad3-4a27-a63e-08973f91120a,,,9802.09375,413.254289171289
+195,Ross Park,Ross Park,City or Village,Hamilton,1,faef1e53-8562-428c-a737-17a3c26cf121,,,101127.48046875,1749.55462300148
+196,VILLAGE GREEN PARK & GAZEBO,Village Green Park & Gazebo,City or Village,Hamilton,1,ddbdee13-d430-4371-8303-77c69a429aaf,,,3313.13671875,279.77806894178
+197,Bender Mountain Nature Preserve,Bender Mountain Nature Preserve,Township,Hamilton,1,4c3ad8c2-2d9c-42ed-a735-ce96dfd35824,,,239365.4453125,2613.46008468603
+198,Baxter Park,Baxter Park,City or Village,Hamilton,1,e41e28c8-1867-4808-a918-e15e6b5e0aef,,,74517.0823428631,1271.59795976266
+199,Concourse Park,Concourse Park,City or Village,Hamilton,1,c32fc23f-b5b0-4ade-bb19-a4bd842a0e02,,,5005.99427201599,307.998467132395
+200,CINCINNATI-WHITEWATER TUNNEL/COMMUNITY PARK,The Cincinnati & Whitewater Canal,City or Village,Hamilton,1,e691591d-f863-4439-aa3f-6c0444292168,,,5667.0625,338.449176347758
+201,GREENO WOODS,Greeno Woods,City or Village,Hamilton,1,c1c319cc-8f42-4d6a-a6d9-c39a9ef3e2d4,,2025/10/29 20:09:31+00,545369.43359375,5456.67526173144
+202,Bruce Ferguson Park,Bruce Ferguson Park,City or Village,Hamilton,1,57313f01-9f43-4e24-8910-c437e39c93b0,,,34216.8203125,913.340308064932
+203,Highpoint Park,Highpoint Park,Township,Hamilton,1,bee43b3c-970f-4e17-983f-92fd394e00df,,,13114.83984375,483.704853359785
+204,White Oak Park,White Oak Park,City or Village,Hamilton,1,bb897b3a-8b30-4855-9e32-e613c8dccc57,,,15014.7109375,549.559985910939
+205,North Fairmont Elementary School,North Fairmont Elementary School,Schools-Public,Hamilton,1,78ad85ce-2bb1-45de-ae74-252ed9b2aee3,,,111708.16015625,2529.44517743488
+206,Forest Avenue Wetland Park,Forest Avenue Wetland Park,County Government,Hamilton,1,bacf4826-1f46-48fb-a5a6-5325978825aa,,,80690.2808675766,1630.35197848002
+207,THE COMMONS,The Commons,City or Village,Hamilton,1,b57d23db-bf26-4b7d-b06d-46a2b0f3fb45,,,18774.66015625,550.628749522484
+208,Floral Paradise Gardens,Delhi Floral Paradise Gardens,City or Village,Hamilton,1,d4470a99-e1e6-4e14-b95e-030b0c73f344,,,14327.359375,552.311159066464
+209,RICHARDSON-TANGEMAN PARK,Richardson Park,City or Village,Hamilton,1,552fec3c-2d76-4995-b670-441d4612989e,,,12505.5164230317,445.411913312549
+210,MARIEMONT UNK. PARK MT.VERNON@MIAMI,Livingwood Park,City or Village,Hamilton,1,863f1dcb-4549-4f54-bedb-d0526ff8502a,,,1249.84375,146.925021526791
+211,LOVELAND PARK-SYMMES ASSEMBLAGE HAMILTON CO.,Chateau Laroche Historical Castle,Other Private,Hamilton,1,e6bda19f-2dd0-4eba-bef4-3ab05e489020,,,11695.1640625,548.508542156867
+212,GREENBELT ALONG WINTON ROAD,Greenhills Open Space,City or Village,Hamilton,1,36afe421-b053-4a11-923f-5af4de71e5e3,,,13229.33203125,506.115912602696
+213,MASSACHUSETTS RECREATION AREA,Massachusetts Recreation Area,City or Village,Hamilton,1,b39fe253-5a69-4795-b296-a98439a81fa7,,,1701.3125,246.335911346352
+214,TAIT AV. PRESERVE,Tait Avenue Preserve,Conservation Group,Hamilton,1,bbb1954f-dc47-4bea-81f4-1fcbceed7038,,,1085.828125,149.940602206757
+215,LAUREL RIDGE PRESERVE,Laurel Ridge Preserve,Conservation Group,Hamilton,1,c710da38-fe41-4996-a155-b4bde9a33624,,,30518.828125,1184.13414149473
+216,NAVAHO PLAY LOT,Navaho Tot Lot,City or Village,Hamilton,1,ae23408d-4227-4809-8069-07ed3621bfb2,,,1351.23828125,148.686272624026
+217,McDonald Commons,McDonald Commons Park,City or Village,Hamilton,1,3a5cfcc4-c5ec-46a4-ac63-ecea9ca4e458,,,152075.08984375,2220.17571038283
+218,Highland Avenue Open Space,Highland Avenue Open Space,City or Village,Hamilton,1,ae3fc3fe-335b-4fef-98e9-93a60e99047e,,2025/10/31 14:36:47+00,54207.69140625,1912.51290796819
+219,VETERANS PARK,Veterans Park,City or Village,Hamilton,1,70b38baf-d461-484c-ad62-57bb8638960f,,,4690.2734375,293.122301371722
+220,KELLOGG PARK,Kellogg Park,Township,Hamilton,1,432ebd6e-8c74-4a77-933e-7a0a934750cf,,2025/04/07 17:25:18+00,144958.48828125,1664.45374782688
+221,MARSH AVENUE PARK,Marsh Avenue Park,City or Village,Hamilton,1,6b17e508-5876-415b-ae33-d6b06a6832d7,,,5945.23828125,345.220410302694
+222,MAPLE STREET PARK AND POOL,Maple Street Park and Pool,City or Village,Hamilton,1,bf228eca-d608-41d1-b055-cc1478572477,,,8809.9453125,387.945039481521
+223,KIWANIS PARK,Kiwanis Park and JT Stottman Ballfield,City or Village,Hamilton,1,9aed9e60-b889-491d-8a70-6f44c1512acd,,,118237.65625,1811.27720553521
+224,Rockdale Playground,Rockdale Recreation Area,City or Village,Hamilton,1,de0412ca-5c22-4429-9659-bc828b987975,,2025/04/15 16:49:37+00,16458.93359375,563.726321098557
+225,ADDYSTON BUFFER ALONG SR 50,Village of Addyston Open Space,City or Village,Hamilton,1,78141b8f-3003-42c1-9448-2cba36f2c625,,,1926.328125,523.950450154218
+226,ASHBY PARK,Greenhills Open Space,City or Village,Hamilton,1,eb311b9a-1488-4a99-af41-086eb077dfd1,,,3061.16015625,490.701569194152
+227,Clark Montessori Greenspace,Clark Montessori Greenspace,Schools-Public,Hamilton,1,82f2f305-f4f6-49f8-a0c7-e50d070977fc,,,52007.28125,1936.13720932754
+228,FENWICK PARK,Fenwick Park,City or Village,Hamilton,1,256b23c6-83f4-480a-9d0b-7209f683ff90,,,32762.4747359157,897.088179340807
+229,TERRACE PARK ELEMENTARY,Stanton Field,Schools-Public,Hamilton,1,eced7627-46b9-4147-9354-468c14153ff8,,,28382.96875,675.287097797892
+230,BRADNOR PARK,Bradnor Park,City or Village,Hamilton,1,97629eb0-b334-426d-bd7a-75710ad4170a,,,935.421875,135.062833106434
+231,Cincinnati Zoo and Botanical Gardens,Cincinnati Zoo and Botanical Gardens,Nonprofit,Hamilton,1,ed6dbe15-4a00-4ee6-8a53-d57ca1903049,,,467087.60546875,4716.25892255862
+232,Ryan Memorial Recreation Area,Ryan Sports Complex,City or Village,Hamilton,1,1851072d-7f9d-4a72-97c2-fa5b38fd3274,,,160305.4375,2019.54626382305
+233,Zinsle Playground,Zinsle Playground,City or Village,Hamilton,1,65698e23-9e48-48d9-821d-1c78046cc2c5,,,3074.734375,224.387146070146
+234,CARTHAGE PLAYGROUND,Carthage Playground,City or Village,Hamilton,1,0f7ada43-a9a0-43f2-a3ef-1f713a4ec7a5,,,2146.11328125,198.267922108463
+235,Haven Playground,Haven Recreation Area,City or Village,Hamilton,1,ea995043-90a3-4ce9-947e-72e8242da6e8,,,2320.55859375,196.741043727998
+236,LINN AND LIVINGSTON PLAYGROUND,Linn and Livingston Playground,City or Village,Hamilton,1,0a5b2f2f-c466-4348-b93b-4f3c49913c64,,,2947.8984375,390.253098711325
+237,RIVERSIDE SPORTS COMPLEX ,Riverside Sports Complex ,City or Village,Hamilton,1,8264e45a-63e8-417d-8fd0-e70be1307748,,2025/04/08 16:31:23+00,142869.27734375,2073.30042437997
+238,Parker Woods,Parker Woods,City or Village,Hamilton,1,2b9369a8-4648-45f0-8cda-b42f1e75713d,,2025/10/31 14:47:11+00,387936.0703125,3675.35951751382
+239,Boldface Recreation Area,Boldface Recreation Area,City or Village,Hamilton,1,190e9a9b-2223-440e-8b65-e7a6cd31ce31,,2025/11/04 18:37:46+00,56814.5737265348,1029.3412013331
+240,FILSON OPEN SPACE,Filson Open Space,City or Village,Hamilton,1,b10d5a7f-3b1d-4dd0-89d8-98f6577e3154,,2025/10/31 14:37:16+00,5441.8359375,312.206485579147
+241,Elstun Road Site,Elstun Road Site,Park District,Hamilton,1,5d67dacc-049b-44e8-b183-59077f9f1b0e,,,390036.9296875,3389.81317276001
+242,Sharon Woods,Sharon Woods,Park District,Hamilton,1,ea0b0d0a-4fd6-4980-bf3c-d8e6a741c6e5,,2025/10/31 14:14:56+00,4766300.015625,20763.3321516221
+243,Francis RecreAcres,Francis RecreAcres,Park District,Hamilton,1,07e2c1e3-e018-46ed-a504-ea53659afcc7,,,999038.19921875,8271.98792015012
+244,Triple Creek,Triple Creek,Park District,Hamilton,1,8f2bf56c-32cf-4694-b07d-dd6268926da5,,,1215460.7109375,8858.28868325179
+245,Kilby Tract,Kilby Tract,Park District,Hamilton,1,5b82b1e5-e1b9-4959-a78c-6e7aa6130839,,,3309604.16796875,16608.1651546921
+246,Campbell Lakes Preserve,Campbell Lakes Preserve,Park District,Hamilton,1,cf4b850b-f92d-4c46-8089-6d53c134bf07,,,2867662.71875,17103.2940379956
+247,Fay Apartment Baseball Diamond,Fay Apartment Baseball Diamond,Ball Field,Hamilton,1,496ad7fa-3424-4c4f-89bf-21645e7a88a9,,,12336.80078125,536.448356323844
+248,Lick Run,Lick Run,County Government,Hamilton,1,ad0e6c75-68c1-4d0e-81f8-feb04baf2ce4,,,202529.79296875,7205.85229419022
+249,St. Clair Heights Park,St. Clair Heights Recreation Area,Park District,Hamilton,1,a0a7d70a-3a0e-42d4-9dc0-0774e2cc31a6,,2025/10/31 14:38:03+00,225718.109375,3546.64092279314
+250,Winton Hills Elementary Playground,Winton Hills Elementary Playground,Schools-Public,Hamilton,1,1b714a92-9571-4390-8a5e-e0e2d729cb00,,,33621.03515625,1506.89123107602
+251,Hillside Park,Hillside Park,Park District,Hamilton,1,a843bc25-8d32-430a-88e9-e09d76a049d7,,,151240.65234375,1833.05312030931
+252,Carson Playground,Carson Playground,Schools-Public,Hamilton,1,da6b0d13-0303-49c8-8002-080ca36498dd,,,8688.94140625,564.210525063159
+253,Alms Park,Alms Park,City or Village,Hamilton,1,da08c1dd-495c-4056-ba98-45cd55d52581,,2025/10/28 18:22:05+00,674958.53125,5154.27502064434
+254,Theodore M. Berry International Friendship Park,Theodore M. Berry International Friendship Park,Park District,Hamilton,1,1523e882-e99c-4fc4-a95f-c211fda02806,,,169162.7265625,3256.34326675385
+255,Eden Park,Eden Park,,Hamilton,1,4b2629d5-4a24-4f5d-8421-95e22ffdf031,,2025/10/31 14:43:20+00,1223411.91796875,6777.7340288331
+256,Cincinnati Art Club Greenspace,Cincinnati Art Club Greenspace,Nonprofit,Hamilton,1,6cf8f1ff-80fd-48f6-ba37-be6f139afc77,,,2649.640625,244.136827422707
+257,Incline Park,Incline Park,Park District,Hamilton,1,386c66fa-05a0-4c8c-afe8-d2f9859a1e45,,,22161.1015625,872.021424751165
+258,Rees E. Price Academy,Rees E. Price Academy,Schools-Public,Hamilton,1,812fff17-c3c4-4a85-a8d5-987516225b19,,,14899.203125,566.084817224573
+259,Parker Woods Montessori School,Parker Woods Montessori School,Schools-Public,Hamilton,1,591ba2af-d954-483b-aaca-7d65803bdb1d,,2025/10/31 14:47:29+00,96075.3359375,3003.31067371759
+260,WATERWORKS PARK RECREATIONAL PARK,Waterworks Recreational Park,City or Village,Hamilton,1,a90570f5-0e79-4cf4-8c98-c16101991703,,,54229.28125,1199.18865975409
+261,CSB Academy of World Language,CSB Academy of World Language,Schools-Public,Hamilton,1,8511ae6b-f42e-4131-8ec6-027398312fb5,,,35286.41015625,1313.46131035918
+262,Mt. Auburn Recreation Center,Mt. Auburn Recreation Center,City or Village,Hamilton,1,76e44070-aa79-4d88-926e-b1049de842e4,,2025/04/15 16:28:59+00,43659.88671875,1067.01296145534
+263,Ziegler Park,Ziegler Park,Park District,Hamilton,1,6a130f40-712d-4501-baa4-c67b6a835d2f,,,12569.4765625,660.934916096171
+264,Camp Livingston Park,Camp Livingston Park,City or Village,Hamilton,1,27e499ce-d2df-45cf-8ccc-90616d8156d9,,,159541.3125,1879.50668920906
+265,ANDERSON REC CENTER,Anderson Parks Rec Center,Township,Hamilton,1,045bdb22-ed00-487f-ad68-b32c5e2794d4,,,39828.76953125,1210.07978378214
+266,ZIEGLER PARK,Ziegler Park,City or Village,Hamilton,1,fdd59798-0433-4b78-9567-51f005420cbd,,,32286.5234375,1280.17555308536
+267,DOG PARK,Harrison Dog Park,City or Village,Hamilton,1,c07a9464-7bba-435e-81ad-c33c48579ccb,,,6562.77126434445,312.599161588113
+268,BIRD SANCTUARY,Paul Prevey Bird Sanctuary,City or Village,Hamilton,1,eee6d9c1-6b2a-4469-bdb2-ab728b059fd6,,,1072.19921875,212.273527889118
+269,MADISONVILLE SITE,Madisonville Site,City or Village,Hamilton,1,b355e211-efef-48a8-be19-a73184413f4e,,,13843.39453125,485.730122860175
+270,"GERALD ""JERRY"" SCHAEPER PARK",Gerald Schaeper Park,City or Village,Hamilton,1,a4d047cb-b014-44d7-bdd3-97bf0559d729,,,4551.32421875,285.562189626672
+271,SHORE PARK,Shore Park,Township,Hamilton,1,2d23a3ff-b001-4802-9742-2d704019fa89,,,2510.21875,241.576963533864
+272,DRACKETT FIELD,Drackett Field,City or Village,Hamilton,1,a4e04985-572f-4606-83b1-5a09dd3a13fa,,,67397.21875,1165.06248676081
+273,Ethel M. Taylor Academy,Ethel M. Taylor Academy,Schools-Public,Hamilton,1,4a031871-53e3-4785-8933-e9ce8e8033a4,,,2644.31640625,244.08955764109
+274,Central Pkwy/Eggleston Av/Reading Rd Park,E Central Pkwy Greenspace,City or Village,Hamilton,1,5f11784f-fef3-4ca8-ae51-4c245ce814bc,,,1993.94331943989,282.86409186757
+275,Ohio River Trail East,Ohio River Trail East,Park District,Hamilton,1,10ed7ac8-7e7e-490d-8f3a-133bbfd46bd5,,,5334.03008130938,1705.40492076696
+276,Little Miami Scenic Trail,Little Miami Scenic Trail,Park District,Hamilton,1,f30283b2-4fc9-4282-a044-1627a8b370a2,,,44550.3217223883,6104.19502608003
+277,Little Miami Miamiville Scenic River Public Access,Little Miami Miamiville Scenic River Public Access,State Government,Hamilton,1,94fd6af7-e95c-4cf1-98e2-591dee5b074e,,,276822.41796875,5761.02373265473
+278,Little Miami Kroger Hill Scenic River Area,Little Miami Kroger Hill Scenic River Area,City or Village,Hamilton,1,7aafb79c-6304-4f59-83cf-51dcf8d2fbcf,,2025/10/31 14:15:09+00,41.4765625,64.280809466529
+279,William Joel McCray Community Park,William Joel McCray Community Park,Other Private,Hamilton,1,90581e0a-0c43-40dd-bc8a-e880d432c961,2025/04/07 18:55:56+00,2025/04/07 18:59:36+00,8105.54036676884,659.486684116414
+280,West Fork Creek Rain Garden,West Fork Creek Rain Garden,County Government,Hamilton,1,7e2aa34c-6f9b-4bf6-83bd-24cee507dac6,2025/04/07 19:13:22+00,2025/04/07 19:16:16+00,6931.828125,365.040562042915
+281,Murray Path,Murray Path,City or Village,Hamilton,1,c63dcc7f-5d57-4321-887d-5f2a58201187,2025/04/07 19:54:36+00,2025/04/08 14:50:04+00,4640.2421875,1474.84296089583
+282,Lincoln Park,Lincoln Park,,Hamilton,1,6a4c354d-fd40-4e58-ac9c-b2ab1ab1de30,2025/04/09 14:35:34+00,2025/10/31 14:15:04+00,58668.95703125,2309.23332242772
+283,Saunders Park,Saunders Park,City or Village,Hamilton,1,a22943cb-2f10-4a00-8397-278f63c8316c,,,18913.0390625,677.782481516119
+284,Rawson Woods Park,Rawson Woods Park,Conservation Group,Hamilton,1,89089e58-a2ee-403e-aa34-f7adc1d48add,,,79009.65234375,1813.48506619195
+285,BIDDLE SUBDIVISION PARK,Biddle Playground,Other Private,Hamilton,1,95108747-17f6-4378-8da0-b9e5bf43485e,,,6476.1171875,318.827320353583
+286,CLIFFORD GEORGE PARK,Clifford George Park,Township,Hamilton,1,1f7d40f9-5aad-4445-8ad2-9403fcccbefd,,,35682.44140625,748.274399674783
+287,OLD MEREDITH HITCHENS ELEMENTARY SITE,Addyston Park and Playground,City or Village,Hamilton,1,f89dbcce-7662-41e0-aece-e62f01726acd,,,52476.44921875,1033.94296374651
+288,Valley Park,Valley Park,City or Village,Hamilton,1,d027f9c2-e21b-44a3-bd60-38a002630023,,,23649.01171875,657.561948383935
+289,Bettman Preserve,Bettman Preserve,City or Village,Hamilton,1,bd61912e-5b63-47b2-9d59-b1b5bdc35f44,,,43394.35546875,1144.78357152694
+290,BOWDLE PARK,Bowdle Park,Park District,Hamilton,1,a3f8378b-dafe-441e-a252-c6408fc549f4,,,8185.8671875,623.811815998793
+291,GREENSPACE-1800? BERKSHIRE RD.,Anderson Greenspace,Township,Hamilton,1,098c650b-2c2d-46b7-aff5-631a340bdb1c,,,72987.76171875,1902.4463292339
+292,Anderson Township Preserved Greenspace,Royal Oaks Greenspace,Township,Hamilton,1,3fc5a8f6-485f-4e56-a16d-0995cec02cbf,,,355390.203125,2523.98930342056
+293,ELMWOOD PLACE PARK,Elmwood Avenue Park,City or Village,Hamilton,1,1cb9a05a-1771-40cc-b8e8-c3fd5978b2d2,,,1928.828125,235.368102361804
+294,Anderson Greenspace,Anderson Greenspace,Township,Hamilton,1,d4cfdaf3-77d9-4eed-92f9-88a169d4374b,,,159980.22265625,2353.25329644753
+295,HILLTOP PARK,Hilltop Park and Playground,City or Village,Hamilton,1,5cefa234-4e7f-434c-a851-98778929c709,,,23664.41796875,637.082163018831
+296,Wilaray Terrace Greenspace,Wilaray Terrace Greenspace,Nonprofit,Hamilton,1,92788cfb-3e8a-4316-9aa7-12916f3acf04,,,26383.45703125,884.374982502933
+297,BURWOOD PARK,Burwood Park,City or Village,Hamilton,1,6f64b53b-20b6-43ac-bff8-bfec595043ee,,,11868.2265625,799.714649820927
+298,CINCINNATI STATE,Cincinnati State Technical and Community College,Schools-Public,Hamilton,1,8abb5356-2d9a-44c1-b96c-f5118763dec3,,,89548.7265625,3859.35342721053
+299,HARVEST HOME PARK,Harvest Home Park,City or Village,Hamilton,1,c583bc9d-0c85-4c6f-aeeb-cce7a9616036,,,70948.18359375,1072.50653470778
+300,Dunham Recreation Center,Dunham Recreation Center,City or Village,Hamilton,1,b07be5cc-dbd3-4189-80f4-ff46bf07fc50,,2025/04/07 19:11:13+00,754825.115003109,4791.45991927119
+301,OAK STREET BUFFER LAND-GLENDALE,Oak Greenbelt,City or Village,Hamilton,1,4442e277-e583-429e-a65d-9302bcdc4e80,,,243714.953125,4412.00548472267
+302,MOUNDVIEW PARK,Moundview Park,City or Village,Hamilton,1,98766ea8-4125-41d0-9ed9-a8a8bca6a686,,,114671.31640625,1610.92822124875
+303,Oak Park,Oak Park,City or Village,Hamilton,1,86a06a00-0696-4bc8-afae-017ff9e30590,,,55776.86328125,1171.8663202201
+304,HARRISON HOME CO. BALLFIELD,Harrison Home Co. Ballfield,Ball Field,Hamilton,1,08e1c72c-44c7-4fa7-bd0c-4094cff266aa,,,41127.69140625,904.262899963811
+305,GREENBELT ALONG WINTON ROAD,Greenhills Open Space,City or Village,Hamilton,1,6646e213-a1df-4ca6-9fe2-abf598c5116a,,,21397.37890625,2007.82784159712
+306,Clete McDaniel Sports Complex,Clete McDaniel Sports Complex,Township,Hamilton,1,1cb22808-6687-4c84-8d5e-246651724086,,,137305.015625,1904.30563075121
+307,SHADY LANE PRESERVE,Shady Lane Preserve,Other Private,Hamilton,1,1312d7db-4a90-4974-833c-9daca7e81113,,,394243.16796875,5017.75583520046
+308,CENTENNIAL PARK,Centennial Park,City or Village,Hamilton,1,26f80022-ed97-4f04-bc38-8a948dfb672c,,,1924.21875,175.481276833826
+309,CHAMBERLIN PARK,Chamberlin Park,City or Village,Hamilton,1,ea49cfee-4727-4600-a23b-2202b9a7384b,,,127979.421875,2249.79203844117
+310,Camp Dennison Memorial Park,Camp Dennison Memorial Park,City or Village,Hamilton,1,cfd06d70-39ba-47b0-b8b1-9d8ac1205d9b,,,538669.5,3185.80299352145
+311,Trammel Fossil Park,Trammel Fossil Park,City or Village,Hamilton,1,0a0c79b0-7fd3-45d2-82bf-a487c30eb4a8,,,51640.1464905739,932.629632920177
+312,MAYFIELD PARK,Mayfield Park,City or Village,Hamilton,1,40c1af05-8ee1-41f7-8ca6-42c56f782b21,,,13683.5546875,470.014515491229
+313,PASTIME PARK SPORTS COMPLEX,MVP Sportspark,Ball Field,Hamilton,1,255d388b-2d4b-436b-b714-08947f20a471,,,150714.09765625,1642.68958376878
+314,Sterns Preserve,Sterns Preserve,City or Village,Hamilton,1,b867faae-1ede-4f46-b64c-e896b162dc63,,,69935.48828125,1450.32196065798
+315,CINCY MET. HOUSING PROJECT-MANGHAM RD. PARK,Mangham Drive Playground,City or Village,Hamilton,1,0c4fffd9-8827-4f15-b7ad-b7ba4f55c281,,,3548.87109375,276.225508560203
+316,PIONEER PARK,Pioneer Park,City or Village,Hamilton,1,19d7a187-23e0-453d-b223-de58809ada58,,,128452.8046875,1489.24508863652
+317,Salway Park,Salway Sports Complex,City or Village,Hamilton,1,646ed040-690c-49c1-bc29-81a96a7ae4fa,,,110522.3515625,2162.00667017201
+318,EDGEWATER PARK,Edgewater Motor Sports Park,Township,Hamilton,1,0bad5fbc-4a9b-45d6-b47a-fb93a238f2d6,,,1131304.015625,5249.91019995514
+319,GROVE PARK,Foster Grove Memorial Park,City or Village,Hamilton,1,1cf50fa4-8ba2-46d7-80c3-6d445eaab5aa,,,34971.828125,883.744134956325
+320,MARIEMONT CONCOURSE,Mary Emery Memorial,City or Village,Hamilton,1,4a05510e-eb17-49a8-835c-97698b64d7c1,,,556.59375,114.921934015268
+321,CROSBY TWP. CIVIC ASSOC. PARK,Lincoln Lee Sports Complex,Township,Hamilton,1,7507a957-11fc-48e0-b676-5e64f3bd0b2e,,,155633.90617229,1597.33050736936
+322,MARIEMONT UNK. PARK-LANES B&C,Ann Buntin Becker Park,City or Village,Hamilton,1,673524ac-08f5-4fb1-8850-7c7a0a21070b,,,8761.20703125,388.262219696903
+323,Colerain/Shepherd Recreation Area,Colerain and Shepherd Recreation Area,City or Village,Hamilton,1,93bb5004-c489-41f9-b8dd-c0960de091e9,,,88901.0390625,1534.30889134114
+324,MELVIN LAKE MEMORIAL PARK,Melvin Lake Memorial Park,Other Private,Hamilton,1,9d61d8e1-913c-45da-a976-5455d1c9142d,,,182016.1171875,1902.43392117836
+325,MT HEALTHY MUNICIPAL PARK,Mt. Healthy City Park,City or Village,Hamilton,1,1efb0684-9d05-4a17-acf5-76357b28d560,,,54010.9921875,1360.52633111751
+326,KULIGA PARK,Kuliga Park,Township,Hamilton,1,18715b65-3c6a-4844-8394-ff8ac78a57cf,,,257621.770788892,3080.65440756207
+327,COLERAIN PARK,Drew Campbell Memorial Fields,Township,Hamilton,1,306fb091-ba21-4be3-ab21-2b0cc4a16d77,,,30844.51953125,736.171618663579
+328,McEvoy Park,McEvoy Park,City or Village,Hamilton,1,cba1b861-6ec3-435d-8631-1e598a86dd2e,,2025/04/15 16:22:04+00,128618.3046875,1513.82176360449
+329,GLENDORA RECREATION AREA,Glendora Recreation Area,City or Village,Hamilton,1,d220c874-3389-4a5b-a4d9-88803cfd46b5,,2025/04/08 17:49:03+00,1429.51171875,168.525491707555
+330,MILTON AND BOAL RECREATION AREA ,Milton and Boal Recreation Area,City or Village,Hamilton,1,de7b95d6-fb75-4957-8cb7-c136525b24b3,,,3360.9453125,243.505398981908
+331,Kennedy Tringle ,Kennedy Tringle ,City or Village,Hamilton,1,30aa4527-490d-480c-8129-53d8354c6b9c,,,9563.27734375,469.877584583282
+332,WEAVER FIELD,Weaver Recreation Area,Ball Field,Hamilton,1,e53dbe43-51cb-43b3-9c62-53617aff8673,,2025/04/15 17:24:17+00,17144.71484375,528.916133768578
+333,Moorman Playground,Moorman Recreation Area,City or Village,Hamilton,1,e1dc0d38-b551-490c-9159-6c0e9c477b9f,,,2056.80859375,183.515101200427
+334,MCMICKEN AND KLOTTER RECREATION AREA ,McMicken Playground,City or Village,Hamilton,1,c8db9038-7af8-44fc-9476-4d90cb879454,,,5181.4296875,321.527074667049
+335,AVONDALE RECREATION COMPLEX,Avondale Recreation Area,City or Village,Hamilton,1,dc96dcb6-5735-4d9e-8042-0cfea0ad667d,,,47956.203125,948.043299872101
+336,Park and Myrtle Playground,Park and Myrtle Playground,City or Village,Hamilton,1,bb0a64a0-14e9-48d1-9eb0-c4a6dc8915e1,,,3243.265625,239.269059659278
+337,WERT PARK,Wert Park,Township,Hamilton,1,945c200a-0ce8-4b46-af78-ecd881ab1606,,,66859.609375,1820.69328355285
+338,Johnson Woods,Johnson Woods,City or Village,Hamilton,1,6aba4e8f-15ed-45c5-8c03-dbb1fba798c5,,,3710.2890625,243.732635516324
+339,Carson/Covedale Park,Carson/Covedale Park,City or Village,Hamilton,1,dd72e35d-7135-476e-b978-e137b62a27a3,,,43404.80078125,1195.2272657922
+340,Stanbery Park,Stanbery Park,City or Village,Hamilton,1,0c2dd7d1-281b-4e2f-abc8-58f815665108,,,874767.0625,5065.58903607236
+341,Thornton Triangle,Thornton Triangle,City or Village,Hamilton,1,e44be8a1-f576-4a6b-afd1-c431cb7cacae,,,195.917830362916,57.9229285404351
+342,Shawnee Lookout,Shawnee Lookout,Park District,Hamilton,1,72ee6bbc-c95d-4001-bc02-5f6862e2dfd1,,,8733216.91990662,28662.9309578282
+343,Winton Woods,Winton Woods,Park District,Hamilton,1,167ee6ae-05e1-45c8-96eb-90b69e839a57,,,16396480.2890625,67463.0642617868
+344,Goltra Preserve,Goltra Preserve,Park District,Hamilton,1,067e0606-b717-45da-bbfe-0e6c53dc301b,,,454518.375,6264.56443696648
+345,Fay Apartment Baskeball Court,Fay Apartment Baskeball Court,City or Village,Hamilton,1,ace11cfe-a00f-477a-ae7b-6d773e8d883a,,,13008.46484375,552.816092929983
+346,Midway Elementary School,Midway Elementary School,Schools-Public,Hamilton,1,95c5cff5-e16d-41a8-9f81-a2e4a73cdbee,,,50785.05859375,2421.64796070207
+347,Hartwell Recreation Center,Hartwell Recreation Center,City or Village,Hamilton,1,b51976f2-20be-4711-ab04-ec26afcffbac,,,126343.546875,2139.29509879207
+348,Rapid Run Park,Rapid Run Park,Park District,Hamilton,1,7aaa64d6-12ea-4d94-a8d8-4da6e9fe277b,,,458145.81640625,6836.89612178577
+349,Olyer Playground,Olyer Playground,Schools-Public,Hamilton,1,6812a286-0db0-4237-bb9f-147e2777fdc6,,,3786.2868295908,276.619761418875
+350,Price Hill Recreation Center,Price Hill Recreation Center,City or Village,Hamilton,1,5caf2b82-a38c-41cd-a547-be55870063cd,,,23658.484375,725.648696676263
+351,Pleasant Hill Elementary,Pleasant Hill Elementary,Schools-Public,Hamilton,1,858ac237-ad6a-43f0-ab1a-7b56171f594a,,,94597.0234375,3363.73724600432
+352,Wassan Way Bike Trail,Wassan Way Bike Trail,City or Village,Hamilton,1,e10e373f-db8e-4a68-82fc-58bc46415062,,,178421.765625,14617.2067685342
+353,East Hyde Park Commons,East Hyde Park Commons,City or Village,Hamilton,1,e5ed2ff7-183a-469a-86f5-48511bf8310c,,,50547.48046875,899.804226290567
+354,Little Miami Scenic River Park,Little Miami Scenic River Park,Park District,Hamilton,1,f4c3a731-e800-4f99-9498-12642ab6a153,,,390917.8046875,4595.52779746114
+355,Ohio River Trail East,Ohio River Trail East,Park District,Hamilton,1,a4c085a7-7b33-4986-91e6-cac07530c6ae,,,32267.8359375,8645.36038511221
+356,Evanston Academy Field,Evanston Academy Field,Schools-Public,Hamilton,1,b71d52b9-f3a0-4456-88fb-f5b02807afc8,,,14029,801.302616194894
+357,St. Clair Triangles,St. Clair Triangles,City or Village,Hamilton,1,8d1edde8-56c6-4568-ab0a-8b8c7130c7c3,,2025/10/31 14:06:47+00,40128.49609375,2823.96820795854
+358,Mound Street Park,Mound Street Park,City or Village,Hamilton,1,e51dcac0-b0ec-415b-b565-9e332bcdf71f,,,1838.15234375,208.555587890739
+359,Pendleton Children's Garden,Pendleton Children's Garden,City or Village,Hamilton,1,7784adbe-5645-4b3f-a9c0-d84a06f349c1,,,527.3828125,91.9527915319342
+360,Lockland and Wyoming Friendship Plaza,Lockland and Wyoming Friendship Plaza,City or Village,Hamilton,1,abf62f88-da39-477d-bd8c-f79c0988d5f7,,,1292.1171875,144.480338018228
+361,JOHNSON NATURE PRESERVE,Johnson Nature Preserve,City or Village,Hamilton,1,064fd9e2-00eb-440a-81be-b15105869b18,,,47438.53515625,1262.22138194594
+362,BEECH ACRES,Beech Acres Park,Township,Hamilton,1,bbadd266-2160-480c-95f2-6ac581c20026,,,180302.386489391,2224.407052754
+363,GREENHILLS,Green Hills Open Space,City or Village,Hamilton,1,9e3190a0-fbb9-4f89-b3d7-f43df11061e2,,,4167.25,661.790075991559
+364,Greenhills Open Space,Greenhills Open Space,City or Village,Hamilton,1,39d3afe6-afa1-463e-af1f-85de2a871e13,,,5313.78048848361,307.97987813442
+365,Greenhills Open Space,Greenhills Open Space,City or Village,Hamilton,1,f6ce9008-b3a2-40e5-9af6-28444f23797d,,,3846.04112488031,251.817066240214
+366,HARRISON COMMUNITY CENTER,Harrison Community Center,City or Village,Hamilton,1,b11157b8-58fe-4027-a18f-4281d2f2f110,,,71409.66015625,1161.88700439012
+367,TRIANGLE POINT PARK,Triangle Point Park,City or Village,Hamilton,1,81e8a0a2-163f-4e85-b5b5-0eb59b6dfcb8,,,832.140625,147.941362856851
+368,HILLTOP PARK,Frank R. Carnevale Park,City or Village,Hamilton,1,60188708-ace3-472a-981c-1e3b20404cb2,,,5906.67578125,325.109387510509
+369,WYOMING HIKE BIKE TRAIL,Wyoming Hike/Bike Trail,City or Village,Hamilton,1,6acd19a4-0c46-4033-8419-10e84e484d53,,,18945.48046875,8161.03949235628
+370,AVOCA PARK,Avoca Park,Park District,Hamilton,1,6e307dc4-c598-44ee-87f7-f7ca3b17e9a4,,,417799.724868,3826.61590938138
+371,BORTZ FAMILY NATURE PRESERVE,Bortz Family Nature Preserve,Conservation Group,Hamilton,1,291638a7-097f-46d2-977a-adffe0250595,,,753096.9921875,4164.7572142233
+372,Greif Green Space,Greif Green Space,Private Commercial,Hamilton,1,12e2442f-ed2e-4b06-876a-8fcec2bbbe2f,,,15083.34375,583.715493859449
+373,Great Miami River Wildlife Area,Great Miami River Wildlife Area,State Government,Hamilton,1,b0d8a2e8-6e29-4486-baaf-66083f6a6fbc,,2025/10/31 14:15:09+00,129567.95703125,1783.82971551322
+374,Warder-Perkins State Nature Preserve,Warder-Perkins State Nature Preserve,State Government,Hamilton,1,50e67193-fb95-4c25-b495-8c66178b2e6a,,,171741.3828125,1631.38747490918
+375,Murray Path,Murray Path,City or Village,Hamilton,1,c0c1bf3a-c15f-464a-a142-a390f6a1277a,2025/04/07 19:36:27+00,2025/04/07 19:45:55+00,24772.9919862747,6453.65434064725
+376,Mt. Adams Recreation Area,Mt. Adams Recreation Area,City or Village,Hamilton,1,82e5c16b-17e2-49b7-b1b3-932a8de2e1c7,2025/04/15 16:35:15+00,2025/04/15 16:35:46+00,11654.3756706715,492.447725939676
+377,Riverview Park,Riverview Park,Township,Hamilton,1,89267849-d8d0-42d8-bb4f-0707f6e79166,,2025/05/08 19:33:52+00,8601.1953125,372.822647295411
+378,Sayler Park,Sayler Park,City or Village,Hamilton,1,1452a5d2-5311-4936-a488-101e1acbeccc,,,13861.9765625,477.190736036242
+379,GREENBELT ALONG WINTON ROAD,Greenhills Open Space,City or Village,Hamilton,1,4a144930-b0ba-4966-b145-32deacd08940,,,30413.31640625,830.833611724825
+380,Mayor Jim Brown Park,Mayor Jim Brown Park,City or Village,Hamilton,1,daac8f6e-e86c-4542-93a4-6cb6f6d67c69,,,6794.83984375,660.459962534939
+381,Peck's Cliff Park,Peck's Cliff Park,City or Village,Hamilton,1,11a098c4-e98d-4564-8ad0-c9eb1f515b30,,,4907.83984375,410.182992258531
+382,DOGWOOD PARK,Mariemont Boat House,City or Village,Hamilton,1,008eec16-f64c-415e-82a9-8edecf24e61f,,,540.26171875,93.3774790995242
+383,VOLUNTEER PARK,Volunteer Park,City or Village,Hamilton,1,de30b394-1525-408f-9981-4bfc7896bfad,,,19854.234375,569.803794522003
+384,HOLLYDALE PARK,Hollydale Park,Township,Hamilton,1,e85d731a-c5cb-427c-ba49-d0ba93c02d65,,,19156.1875,682.507901769931
+385,GREENSPACE-HILLSIDE,Ida Street Open Space,City or Village,Hamilton,1,6f1309b2-84c4-42d6-8839-df9aa06d1e48,,,10427.3203125,458.049881403552
+386,CHARLES PALM MEMORIAL PARK,Charles Palm Memorial Park,Township,Hamilton,1,0dd05e80-1888-47d8-b335-8e9bf99409fc,,,5792.64453125,360.325030901709
+387,ROSELAWN CONDON ELEMENTARY SCHOOL,Roselawn Condon Elementary School,Schools-Public,Hamilton,1,1c324658-1c5c-4bbb-85ac-98db74102183,,,26214.0078125,1531.97501816885
+388,CLEVELAND AVE PARK,Cleveland Park,City or Village,Hamilton,1,142f2835-35b6-468a-9540-a080c0d0756a,,,3057.0390625,225.837118689086
+389,FOXWORTH PARK,Greenhills Open Space,City or Village,Hamilton,1,03f26ad8-eff0-457f-b00f-51e1ad369954,,,3857.44140625,470.776787831034
+390,ROSS PARK,Ross Park,City or Village,Hamilton,1,eea46abf-2d83-4489-8e1c-2fecc0822c14,,,87425.76953125,1469.08478569485
+391,Camp Dennison House,Camp Dennison House,Nonprofit,Hamilton,1,f393785d-8c15-42cd-a136-76e2eceaa2bc,,,26486.8046875,732.430063177893
+392,SUMMIT PARK,Summit Park,City or Village,Hamilton,1,3d6d6582-46b0-439d-a503-b3345df36c8f,,,123786.359375,1561.55456091699
+393,Caldwell Triangle,Caldwell Triangle,City or Village,Hamilton,1,bb369393-fe88-430d-a9b6-2950a27a7790,,,1162.453125,158.517144072764
+394,BLUE ASH RECREATION CENTER,Blue Ash Recreation Center,City or Village,Hamilton,1,eabcc1e1-cb00-461f-8cdb-315ee2563896,,,109570.7734375,1350.83601217999
+395,Hoffner Park,Hoffner Park,City or Village,Hamilton,1,b4e22818-ffa4-4643-846e-bcde19cf7073,,,13361.984375,478.447019212845
+396,TERRACE PARK BUFFER-AMHERST/ELM/HARVARD,Terrace Park Village Green,City or Village,Hamilton,1,7406ce4e-a5bb-4d04-b2e4-eadbe75ee96e,,,11301.7109375,453.486498741316
+397,Society of Danube Swabians,Danube Swabians Field,Nonprofit,Hamilton,1,5c073160-3fb0-4502-ae43-a4312d1c1b19,,,59857.9921875,1470.71711278378
+398,JOHNSON HILLS PARK,W.M. Johnson Hills Park,Township,Hamilton,1,fad878d6-3c45-4ce3-84fa-c07298e412b7,,2025/04/07 17:20:24+00,943153.31640625,4962.14536691245
+399,Amberley Park,Amberley Park,City or Village,Hamilton,1,1ffbbb15-f17e-4d77-bba6-2bf379a8f6ef,,,55775.12109375,1023.62599085579
+400,Sycamore Township,Sycamore Township Open Space,Township,Hamilton,1,18c92474-1384-4483-b480-c275506f129d,,,5842.18359375,313.165335013776
+401,TERRACE PARK BUFFER-DOUGLAS & ELM,Terrace Park Log Cabin - Lindell Memoral Grove,City or Village,Hamilton,1,064c6c0c-feb4-4089-8322-63da2b43dab2,,,13466.79296875,467.538589553558
+402,BOND HILL RECREATION COMPLEX,Bond Hill Recreation Area,City or Village,Hamilton,1,3628cfad-6924-402b-a360-b118df238ea8,,2025/10/31 14:38:37+00,34139.01953125,839.617183185334
+403,FLEGE PARK,Flege Park,City or Village,Hamilton,1,50a386f9-071d-4f66-a94f-3e1c62ade9a8,,,9532.62890625,430.307728262777
+404,PIES PARK,Paul J. Pies Park,City or Village,Hamilton,1,25afb9cc-7cf8-46e2-b22a-0c9fb200fa0f,,,119063.8046875,1752.79765023607
+405,DELHI TWP. UNDEVELOPED-MOVE SPRINGHOUSE TO THIS SI,Five Points Park,Township,Hamilton,1,3070d14a-077b-42f2-8726-6fbd9556f16a,,,7426.48046875,386.401979634244
+406,MARIEMONT UNK. PARK-LANES E&F,Patriots Park,City or Village,Hamilton,1,d77bdc2c-7a0a-4857-a364-e4b64d045a21,,2025/04/08 15:00:16+00,6402.84707403183,329.041378109032
+407,GREENBELT ALONG WINTON ROAD,Pioneer Park,City or Village,Hamilton,1,ad5f8191-1d76-49c1-bdf9-8da745f72c1a,,,350.21484375,76.9823410649894
+408,Linwood Russell Recreation Area,Linwood Russell Recreation Area,City or Village,Hamilton,1,6f1e2f21-431d-4990-b932-88f6a856627f,,,2512.4140625,206.100594801238
+409,MADISON PARK,Madison Park,City or Village,Hamilton,1,ebc66ecf-21a1-46df-ac69-44ccfeffa424,,,29534.0568661615,780.732402860038
+410,QUEENSGATE RECREATION AREA ,Queensgate Recreation Area,City or Village,Hamilton,1,6eee615b-962a-477d-9ce7-6c2ae47e383d,,,33039.0232481956,780.737087271176
+411,Northwoods Park,Northwoods Park,City or Village,Hamilton,1,e74bbc4a-3f18-4da1-bddd-1a96691cf903,,,11320.8229505122,622.385114077499
+412,KOLPING SOCIETY PARK,Kolping Society Park,Ball Field,Hamilton,1,de2d780e-5b9e-4b2a-ab66-211713a7dc0a,,,375330.49609375,2716.42204821317
+413,BEACON HILL,Beacon Hill Park,City or Village,Hamilton,1,193fbc60-f278-4485-a316-346230b66cf1,,,23483.76953125,938.243720819291
+414,CINCINNATI NATURE CENTER-GORMAN FARM,Gorman Heritage Farm,City or Village,Hamilton,1,4efb8f62-2548-453d-b53d-945890af0404,,,883431.624906421,7366.98816040689
+415,KENWOOD GARDENS,Kenwood Gardens,Township,Hamilton,1,b33a4d67-4bff-4a3d-941f-bc6f504f928d,,,4845.98839041591,289.741842455307
+416,ANDERSON LAKE PARK-DETENTION (WILL REDUCE IN SIZE),Anderson Center,Township,Hamilton,1,c9a5341a-21cf-4a6a-a9ac-7d510be723c1,,,95461.6665134728,2108.19078031199
+417,BACHMAN PARK,Bachman Park,City or Village,Hamilton,1,6a981691-4b7b-411c-be85-867115d36762,,,550.05859375,102.624713211126
+418,CHEROKEE PLAY LOT,Cherokee Tot Lot,City or Village,Hamilton,1,75d66e2c-019b-4b30-ab60-cf9d07a5d5be,,,1595.32421875,167.996130048552
+419,SWAIM PARK,Swaim Park,City or Village,Hamilton,1,f0be6ba0-7f11-455e-8171-8e94c0d7dc59,,,88054.2578125,1540.92626041219
+420,EASTWOOD PAIDEIA SCHOOL,Eastwood Paideia School,Schools-Public,Hamilton,1,ec752d83-8ce7-4863-995e-7e202191c125,,,39773.3515625,1730.62771138307
+421,Ida Street Open Space,Ida Street Open Space,City or Village,Hamilton,1,4a95a265-6953-47cd-bd10-2fb3082b7cd5,,,16370.05078125,735.379254236582
+422,Winton Hills Recreation Center,Winton Hills Recreation Center,City or Village,Hamilton,1,7bd248f8-ac04-40e8-aecf-29030679064f,,,68818.046875,1152.24608320153
+423,FINDLAY PLAYGROUND,Findlay Playground (Old),City or Village,Hamilton,1,995248cd-35c2-41ad-838e-7a9c512d823b,,,1388.83203125,149.260963866143
+424,Daniel Drake Park,Daniel Drake Park,City or Village,Hamilton,1,423f8679-7d97-4428-b2b1-0038297bce05,,,449339.16796875,3482.92644176883
+425,Little Duck Creek Park,Little Duck Creek Park,City or Village,Hamilton,1,b5517aa2-bed6-4973-ac02-07c394877f59,,,73551.609375,2832.81774236119
+426,Dempsey Park,Dempsey Park,City or Village,Hamilton,1,cb080c85-d964-4eb5-a984-176bbdedaa9a,,,46302.00390625,1329.42473099573
+427,HANNA PARK,Hanna Park,City or Village,Hamilton,1,e9b1fee9-1b31-440d-a765-9c389841d9cb,,,8790.1328125,403.916244497811
+428,College Hill Park,College Hill Park,City or Village,Hamilton,1,bace7db8-3a1e-4e80-8275-248dc5448be6,,,39006.92578125,844.057758132574
+429,Edgewood Grove Park,Edgewood Grove Park,City or Village,Hamilton,1,7304e947-1b2b-4ce1-9e40-2c6411bc4f94,,2025/11/04 18:31:20+00,164133.28125,2753.24516210012
+430,Lake Isabella,Lake Isabella,Park District,Hamilton,1,cfb7ad91-e8dd-472f-85ab-1a73bca6b05d,,,501064.49609375,6087.982941711
+431,Lunken Airport Playfields,Lunken Airport Playfields,City or Village,Hamilton,1,73efb830-7ff7-4e78-bd04-c7ae5fb4f969,,,203544.00390625,2551.82955766551
+432,Fido Field,Fido Field,City or Village,Hamilton,1,67e09660-138d-47a3-a9b0-56335b36d7d7,,,4709.69921875,289.877664022041
+433,Ohio River Trail West,Ohio River Trail West,Park District,Hamilton,1,83f1ec4f-8b07-4169-817c-15774023822b,,,14628.46484375,6229.70546584819
+434,Evans Recreation Area,Evans Recreation Area,Park District,Hamilton,1,d7dc26f8-7a04-4024-979a-ef3e16cd142a,,,33100.08203125,845.036384405476
+435,Potter's Field Sign,Potter's Field,Cemetery,Hamilton,1,bb229181-261d-4586-bab0-c979eeca46de,,,10.8828125,13.2864814530916
+436,Xavier University Disk Golf,Xavier University Disk Golf,Schools-Private,Hamilton,1,55a6712e-e1b4-4539-a0de-78eb7ddb0702,,,22831.140625,655.227599452784
+437,Dunore Park,Dunore Park,Park District,Hamilton,1,6e95eb7a-4649-4c3e-9d1d-8f4308a1cda2,,,14366.62109375,688.055997685863
+438,Niehoff Conservation Easement,Niehoff Conservation Easement,Park District,Hamilton,1,cb13d567-100f-400e-943b-c3ef0d8ca2f6,,,3624.96875,255.59071222796
+439,Bush (Myron B.) Recreation Center,Frederick Douglass Elementary School,Schools-Public,Hamilton,1,8161a56f-08a4-43ec-937f-6fb3df2aeabe,,2025/04/08 16:08:35+00,10346.296875,450.13946220085
+440,Coy Park,Coy Park,City or Village,Hamilton,1,6c73d5c8-a698-4453-9832-38382661f750,,,120799.3984375,1733.42706498692
+441,Gallagher Park,Gallagher Park,Park District,Hamilton,1,2b6f7d51-837e-4a9f-9bde-ba22dbfb736b,,2025/11/04 18:11:01+00,7167.78125,422.084371225341
+442,University of Cincinnati Campus Greenspace,University of Cincinnati Campus Greenspace,Schools-Public,Hamilton,1,af33c8e9-1597-4f09-9faa-9103ecbcc775,,,260160.40625,5526.38474527331
+443,Corryville Triangle,Corryville Triangle,Park District,Hamilton,1,88393655-d023-42f3-943b-d5197a86b4e5,,2025/11/04 18:26:21+00,4506.99609375,401.092036710567
+444,Mt. Auburn Greenspace,Mt. Auburn Greenspace,City or Village,Hamilton,1,3ff11197-8a07-47dd-87a6-e12abb43d076,,,1122.6015625,196.308313281933
+445,Fairview Open Space,Fairview Open Space,Park District,Hamilton,1,01d26bec-ccc7-4b6d-ad73-9980e7d236d1,,,27880.6953125,1144.14966225139
+446,Bellevue Park,Bellevue Park,Park District,Hamilton,1,7d358fc0-6ed1-41b9-be7f-f32c9928439a,,2025/10/29 20:15:04+00,102489.6796875,1606.86663106237
+447,Taft High School,Taft High School,Schools-Public,Hamilton,1,66654b7c-7bd3-4ed4-8207-4fc1d92b3baf,,,42188.4609375,831.787786285216
+448,WILLOW PARK,Willow Park on the Whitewater,City or Village,Hamilton,1,a4b2dcc5-34d6-4cd7-af27-8b494accda77,,,90026.78125,1465.55659362654
+449,Doug Dunaway Memorial Motocross Park,Doug Dunaway Memorial Motocross Park,City or Village,Hamilton,1,994c3068-03df-4671-9b13-07e569b359a7,,,272101.8046875,2139.8722521783
+450,Memorial Field,Memorial Field,City or Village,Hamilton,1,d62b53d2-bf09-463a-9088-67c15fa25441,,,33900.5859375,741.278636988353
+451,LAKE BARBER,Lake Barber,City or Village,Hamilton,1,c2fdd86e-9e49-4ef2-bbcb-d8a1a26a630f,,,491131.125702739,4842.7265809534
+452,BERKE SOCCER FIELDS,Berke Soccer Fields,City or Village,Hamilton,1,c0b748c1-0319-47b4-be1b-f045b7bccebe,,,77407.11328125,1269.50903380217
+453,BLONG MEMORIAL,Blong Memorial Park,Township,Hamilton,1,45310c2c-0f99-4b9d-8638-e93141555cf9,,,10113.30859375,432.415747574409
+454,Sands School Playground,Sands School Playground,City or Village,Hamilton,1,26b17763-1e02-4275-a479-01b65437714d,,,8736.2734375,407.912928994368
+455,Site-Preserved-Duck Creek Rd,Site-Preserved-Duck Creek Rd,City or Village,Hamilton,1,aff0ffce-6af6-4ad4-b197-9a5c022c2e14,,,72271.59765625,2391.11037257653
+456,CENTRAL PARKWAY,Central Parkway Greenspace,City or Village,Hamilton,1,1c997cbc-15e0-4f61-99e7-3b8c51a44409,,2025/10/31 13:12:24+00,90428.20703125,17491.1586811719
+457,Otto Armleder Memorial Park Trail,Otto Armleder Memorial Park Trail,Park District,Hamilton,1,ed7810c2-8e20-45b5-935c-934640f1f446,,,5041.65234375,1811.09374734333
+458,Clear Creek Park - LMST,Little Miami Scenic Trail,State Government,Hamilton,1,df5a5b9d-13a0-4e8b-8abc-a6fd8bce3d05,,,30736.576186657,6096.41591508231
+459,Village of Evendale Municipal Complex,Village of Evendale Municipal Complex,City or Village,Hamilton,1,476538cb-24aa-477f-88c9-c1eb6e8c5d42,,,201747.91015625,2325.30089043911
+460,Greenbelt State Nature Preserve,Greenbelt State Nature Preserve,State Government,Hamilton,1,636a4ca6-7446-4ad3-bc01-e425e81d5cb1,,,443476.012194872,4946.07445037277
+461,Kroger Hills Conservation Area,Kroger Hills Conservation Area,State Government,Hamilton,1,fb8d49e3-b0ec-4f39-98b8-595bd62127b7,,,552716.75,3719.11319254231
+462,Roberts Recreation Area,Roberts Recreation Area,City or Village,Hamilton,1,c94f6135-6e31-4f23-a865-c527e0d89756,,2025/10/31 14:15:03+00,24294.21875,627.536976891898
+463,Mt. Airy Recreation Area,Mt. Airy Recreation Area,,Hamilton,1,f4d0bb62-4116-49ad-8947-26e5fed61533,2025/04/08 15:33:21+00,2025/10/31 14:15:03+00,73799.8258008957,1478.16162906863
+464,TOWER PARK,Norwood Mound,City or Village,Hamilton,1,4745d78c-b33b-45b8-a971-967cc6e71675,2025/06/12 14:50:49+00,2025/06/12 14:51:04+00,1802.51161178946,155.09370045047
+465,Silverton Town Commons,Silverton Town Commons,City or Village,Hamilton,1,29abd1e3-7e75-4356-a5cd-2f55016df2b6,2025/06/27 14:52:06+00,2025/06/27 14:53:59+00,907.660119324923,119.00265020153
+466,Millcreek Valley Conservancy District,Millcreek Valley Conservancy District,Conservancy District,Hamilton,1,2d13a769-b486-4c01-81a2-025f17cc3b9c,,,87700.72265625,4580.57739271489
+467,ELMWOOD PLACE PARK,Elmwood Place Park,City or Village,Hamilton,1,398a426c-5465-49c7-a564-6ad449eeaa92,,,557.5859375,105.650420031359
+468,NEW BALTIMORE PARK,Pottenger Park,Township,Hamilton,1,58a24843-1c7c-451a-a9d5-679e38443798,,,3793.87109375,246.614700741566
+469,CAMARGO CANYON PRESERVE,Camargo Canyon Preserve,City or Village,Hamilton,1,03318c8b-72be-44f6-8ca9-eddfb9c68f1b,,,115914.588968396,2139.68028048666
+470,BLUE ASH SPORTS CENTER,Blue Ash Sports Center,City or Village,Hamilton,1,e21788e8-d89e-4409-94de-3d65fed63993,,,241457.1953125,2362.0970614225
+471,MONTGOMERY MUNICPAL POOL,Montgomery Municipal Pool,City or Village,Hamilton,1,660cc3b7-fca6-4433-9732-030c13710d10,,,43160.73046875,855.341741458739
+472,CLIPPARD PARK,Clippard Park,Township,Hamilton,1,f74ea8ee-f3c5-4da3-b13f-86fa104cdca8,,,100762.890625,1659.12217805616
+473,RITCHIE PRESERVE,Ritchie Preserve,City or Village,Hamilton,1,fca9bc3e-0a92-4f51-a4df-286884a5752c,,,93904.28515625,2563.48482023457
+474,CONGRESS & LAKE PARK,Lake Park,City or Village,Hamilton,1,8ef85873-f219-4992-8381-79a91adb57f9,,,24200.6852025986,782.456840499902
+475,Veterans Park,Veterans Park,Township,Hamilton,1,2133f06e-0b89-48af-9c76-2850cc2863cd,,,81824.11328125,1329.58184813921
+476,FIREFIGHTERS COMMUNITY PARK,Firefighters Park,City or Village,Hamilton,1,b854a4c7-8ace-4335-a946-4fc2408a7606,,,2807.546875,323.335896186852
+477,OAK STREET BUFFER LAND-GLENDALE,Tollgate Park,City or Village,Hamilton,1,5e9ebd29-cce9-489d-938e-c078b467943a,,,1818.5,186.8114871021
+478,Franklin Park,Franklin Park,City or Village,Hamilton,1,b68bcead-2251-4021-b464-f3eeb5dac2d0,,,1377.94140625,157.831462378642
+479,ISAAC MAYER WISE MEMORIAL PARK,Isaac Mayer Wise Memorial Park,City or Village,Hamilton,1,bed59dbc-4750-48d3-91dd-bf97bc47030b,,,740.01171875,111.014054240779
+480,MARSHAL PETER DUMELE MEMORIAL PARK,Marshall Peter Dumele Memorial Park,City or Village,Hamilton,1,a6948a7e-7b82-4e89-b5af-6c5ebfc38787,,,4522.984375,289.734004823083
+481,MILL CREEK CONSERVANCY,Mill Creek Conservancy,Conservancy District,Hamilton,1,eb605083-d184-44e5-9c7d-ea07806b6f5a,,,475.14453125,185.220036831037
+482,HOPEWELL MEADOWS PARK,Hopewell Meadows Park,Township,Hamilton,1,62a9b38c-a778-4002-8bfe-011616e5e395,,,103782.74609375,1541.7838413651
+483,EVENDALE-UNK. PARK GLEN/MILF @ HUNT,Village of Evendale Park,City or Village,Hamilton,1,4d9b4ebf-a3f9-490d-9e4e-d666218406df,,,3261.0625,240.470286429519
+484,BLUE ASH NATURE PARK,Nature Park,City or Village,Hamilton,1,e8f1b50e-10b2-45a1-b0a2-871a9dbabef8,,,88557.90625,1527.96052892295
+485,Hamilton County Fairgrounds,Hamilton County Fairgrounds,County Government,Hamilton,1,cf01e4a8-9eca-4ac2-8dcd-a27d983e789f,,,255058.6953125,1995.32742820276
+486,REINSTORM PARK,Rheinstrom Park,City or Village,Hamilton,1,cb90fcc3-7448-4ce7-997d-b8f12db9f5af,,,191602.67578125,1878.7374364972
+487,Hauck Botanic Garden,Hauck Botanical Garden,City or Village,Hamilton,1,ff154ed2-c90a-4bda-9f27-0670e5826a77,,2025/10/31 14:11:25+00,61317.1640625,1198.47492483787
+488,SURRY SQUARE VICTORY PARK,Victory Memorial Park,City or Village,Hamilton,1,503ca044-f7f8-4778-a704-70ff455bf4f0,,,12395.45703125,477.974708699285
+489,CHERRYFIELD PARK,Cherryfield Park,City or Village,Hamilton,1,0e638255-fea9-48e1-8398-32c87372a213,,,12680.41015625,629.364790123901
+490,SHORT PARK,Short Park,City or Village,Hamilton,1,43ae187b-5740-475f-bc60-1365d87d0d24,,,110988.23046875,1579.48701168503
+491,MARIEMONT CONCOURSE,Jordan Park,City or Village,Hamilton,1,4834d480-dabb-4945-93b8-fe5794e51694,,,18559.8011192232,600.64603777166
+492,Governor Looker Park,Othneil Looker Park,City or Village,Hamilton,1,588efb97-b77e-4e7f-a436-ef571114b706,,,250130.945521355,2547.19606056872
+493,Bramble Park,Bramble Park,City or Village,Hamilton,1,686679cd-7206-4a7a-971b-403bf527f72d,,,96560.125,1519.76072337033
+494,RICHARDSON-TANGEMAN PARK,Tangeman Park,City or Village,Hamilton,1,6560277f-d511-4aa5-b1d7-5dfcd53471aa,,,4666.03515625,279.424394080278
+495,Tollgate Park,Tollgate Park,City or Village,Hamilton,1,1d849f3f-337d-4b08-b378-9b6d30629cab,,,1389.512370646,165.039308889328
+496,LAUREL RECREATION AREA,Laurel Playground,City or Village,Hamilton,1,8978105a-63fb-40ce-8e4d-f8b0fc84bd62,,,24059.83203125,626.844387362308
+497,MILLVALE RECREATION COMPLEX ,Millvale Recreation Center,City or Village,Hamilton,1,aacf475f-b9e1-4e5a-a8a7-47ccc2dcdf59,,2025/04/15 16:25:05+00,15909.8046875,494.064552772887
+498,VETERANS PARK,Veterans Park,City or Village,Hamilton,1,fa63f9d8-51e4-4bf6-87de-c2dc76abcce1,,,3933.171875,260.823601799951
+499,DANIEL RECREATION AREA,Daniel Recreation Area,City or Village,Hamilton,1,7de31aff-cfe1-46b6-a46d-2b1a191ddb96,,,48167.41015625,1061.11341683605
+500,EVANSTON RECREATION AREA,Evanston Recreation Area,City or Village,Hamilton,1,19b9f7f3-11a2-4940-bcdf-ca84fcad1d42,,,44769.43359375,1017.54106749299
+501,CREMERINGS RIVERSTAR PARK,Cremerings Riverstar Park,Ball Field,Hamilton,1,9ca06bd8-661b-490f-916e-7f15938ab9d7,,,121557.69140625,1439.97133171557
+502,OBSERVATORY PARK,Observatory Park,City or Village,Hamilton,1,d7a6f5dd-087b-4e0e-8b87-c47f4bb39499,,,8954.265625,411.531976582558
+503,KEMPER MEADOW PARK,Kemper Meadow Park,City or Village,Hamilton,1,b02dc6de-17b5-4e89-afca-1f2754630e7c,,,155305.4140625,1995.69766496491
+504,LANG RECRATION AREA,Lang Recreation Area,City or Village,Hamilton,1,6050909b-6c94-4c88-a15c-c0fa43b65932,,2025/10/31 13:19:17+00,22016.08203125,857.407579398286
+505,BIG BURLEY PARK,Greenhills Open Space,City or Village,Hamilton,1,85a826a3-1cab-469e-bbf2-0c913e4f7f8c,,,13215.16796875,840.225164538822
+506,DOGWOOD PARK,Mariemont Bell Tower,City or Village,Hamilton,1,17132744-5892-4743-a423-81ef64b1721c,,,601.42578125,98.1243507313278
+507,WAYNE RECREATION AREA ,Wayne Recreation Area ,City or Village,Hamilton,1,818db66c-8896-4e3e-a982-2d9bcec95963,,2025/11/04 18:39:44+00,83504.9504715204,1537.50379908123
+508,STEVEN BOIKE PARK,Boike Park,City or Village,Hamilton,1,8302ba43-7aec-4feb-8cf8-9efcaad9f306,,,62968.3125,1471.00525395522
+509,Village of Glendale Park,Village of Glendale Park,City or Village,Hamilton,1,5e088b21-85e1-4421-9376-f44b689dcbd9,,,859.95703125,131.468543599644
+510,NASSAU AND ST. JAMES RECREATION AREA ,Nassau and St. James Recreation Area,City or Village,Hamilton,1,e4613afa-dc6d-41dc-82b6-06542061fdd8,,,6764.0625,342.726995629065
+511,CLIFTON RECREATION CENTER,Clifton Recreation Center,City or Village,Hamilton,1,968757a2-4048-49c5-ad51-051976ce5227,,,13606.515625,609.491954843459
+512,FINDLAY PLAYGROUND,Findlay Playground (New),City or Village,Hamilton,1,2a58b7a0-7271-4bf5-a600-56530f241345,,,9961.48828125,422.387242337638
+513,Chase/Fergus Playground,Chase and Fergus Recreation Area,City or Village,Hamilton,1,d4232d6a-a9e5-4b42-9d5f-85194219290a,,,2021.9921875,181.288988601077
+514,Larz Anderson Park,Larz Anderson Park,City or Village,Hamilton,1,6aff5884-5c6f-4452-91aa-4434d8c46382,,,60519.89453125,2831.04850993831
+515,SHARONVILLE COMMUNITY CENTER,Sharonville Community Center,City or Village,Hamilton,1,e8cbd9e1-cbfc-4f54-bd0a-71427e8fda29,,,7678.8515625,354.391961258915
+516,AVON FIELDS GOLF COURSE,Avon Fields Golf Course,City or Village,Hamilton,1,e875a815-685f-4499-978c-59494ca99ee0,,2025/04/15 17:13:44+00,605878.01171875,4633.08205802139
+517,GLENWAY PARK,Glenway Park,City or Village,Hamilton,1,a2961542-8bdc-4c19-8ba1-8512ad4edfb5,,,21561.39453125,612.413053184021
+518,Avon Woods Nature Center and Preserve,Avon Woods Nature Center and Preserve,City or Village,Hamilton,1,ecb8011b-80b7-4890-854b-5081c739141b,,,131067.89453125,2704.66033239943
+519,Stella Park,Stella Park,City or Village,Hamilton,1,4147d83e-b6c8-409b-aa5c-12db23214944,,,10033.828125,419.999280693124
+520,North Park,North Park,City or Village,Hamilton,1,2c754495-8697-4f98-ab30-75fd2303c91e,,,72336.59765625,2068.58886821649
+521,FILSON RECREATION AREA ,Filson Recreation Area ,City or Village,Hamilton,1,ee2f93ae-312d-41b3-8e4e-dbc089974304,,,12763.4140625,454.097963367805
+522,Lower Price Hill Recreation Area,Lower Price Hill Recreation Area,City or Village,Hamilton,1,1fdf0a86-702d-468f-8a5b-e134a3f332e8,,,2535.1875,203.445089204337
+523,Hopkins Park,Hopkins Park,City or Village,Hamilton,1,85e809b7-d0f6-4cb8-ae2f-ba26c1481a25,,2025/10/31 13:21:25+00,6771.95703125,340.868748113078
+524,Republic Senior Haven Playground,OTRCH Playground,City or Village,Hamilton,1,b8d96635-77c1-4f63-bb06-217b6673731a,,2025/06/23 14:27:28+00,462.6796875,90.2461987715854
+525,Hunt Park,Hunt Park,City or Village,Hamilton,1,5a2ffd36-a98e-42d5-92b8-780171b0cf06,,,11141.203125,428.714490822634
+526,Burnet Recreation Area,Burnet Recreation Area,City or Village,Hamilton,1,8e46fbf3-454a-4024-b3c0-9d53d8bb560d,,,4182.7421875,262.481781745393
+527,Baker Bowl Park,Baker Bowl Park,City or Village,Hamilton,1,6fd36ded-aad9-4335-9d36-2505378abf4a,,,2936.95703125,217.50939995375
+528,Miami Whitewater Forest,Miami Whitewater Forest,Park District,Hamilton,1,03ccefc4-006f-48f5-9001-aabf9f85411d,,2025/04/07 17:39:17+00,33630506.578125,95833.268132811
+529,Glenwood Gardens,Glenwood Gardens,Park District,Hamilton,1,bb10057b-cc0b-4191-b780-dd5bdb4635e9,,,2102248.703125,7464.94323725712
+530,Mitchell Memorial Forest,Mitchell Memorial Forest,Park District,Hamilton,1,4b85b2eb-c14e-498d-a7cc-a9137bddcfe4,,,10380888.8242188,56270.8830168274
+531,Henrianne Tot Lot,Henrianne Recreation Area,City or Village,Hamilton,1,aad5d104-a77e-48c8-a4b6-cc70214b6bc4,,,964.5859375,135.817316776674
+532,Gaines Triangle,Gaines Triangle,City or Village,Hamilton,1,c275bc7b-a58c-4112-8ddc-d40aaf7bc711,,2025/04/08 17:50:43+00,433.798267766833,97.1621762901695
+533,Chestnut Ridge Median,Chestnut Ridge Median,City or Village,Hamilton,1,1195c9d3-43bd-46ae-9c01-0246d18e946f,,,6116.30078125,1743.48997566143
+534,Kirby Nature Preserve,Kirby Nature Preserve,Conservancy District,Hamilton,1,33536a2b-2797-42f9-9da0-8f0a72c3cad9,,,166810.09765625,2807.0268576432
+535,Otto Armleder Memorial Park,Otto Armleder Memorial Park,Park District,Hamilton,1,f570cf0b-7030-4642-b14f-fc980d8909a3,,,2375225.85546875,8253.83104547854
+536,Reading Road Greenspace,Reading Road Greenspace,Park District,Hamilton,1,8f5969b4-bd1f-4766-a17d-1f8234197aa3,,,12061.61328125,897.842800696307
+537,Walnut Hills Playground,Walnut Hills Playground,City or Village,Hamilton,1,60b05ecd-c6c0-43da-9e58-8689489e375c,,,2133.0703125,214.187415941472
+538,Fechheimer Park,Fechheimer Park,Park District,Hamilton,1,ae818de9-f3a7-49cb-854a-2016d90c1505,,,2743.21484375,231.038455696922
+539,Hill Street Open Space,Hill Street Open Space,Park District,Hamilton,1,b9255786-3a9a-4cb5-83e3-7bea4b149f53,,,5008.57421875,293.974278020811
+540,Waterfront Park,Waterfront Park,Park District,Hamilton,1,8b3e7398-2c44-4fbd-aa6e-69a9b08162ac,,2025/04/09 19:48:23+00,294037.830668449,3952.23543622501
+541,Mt. Echo Park,Mt. Echo Park,Park District,Hamilton,1,b1db201e-b7b0-4abc-a8f3-4dc92f7b113e,,,664836.421875,4750.565310308
+542,Westwood Town Hall,Westwood Town Hall Park,City or Village,Hamilton,1,21387036-58ff-48a2-9a79-e840aa0603c9,,,14158.24609375,570.73317719871
+543,Mckie Recreation Center,Mckie Recreation Center,City or Village,Hamilton,1,5db25af0-196d-490d-9551-a3128bbdbe0b,,,23278.875,723.034049046746
+544,Victory Parkway,Victory Parkway,City or Village,Hamilton,1,f05ffaf6-f90f-404c-ad66-c2055faf04d0,,2025/10/29 20:13:37+00,264840.90625,23948.5459236365
+545,Torrence Parkway,Torrence Parkway,Park District,Hamilton,1,76b05481-9fa7-46ae-9053-c9396ebc8c56,,,50725.37890625,2991.52952329847
+546,Annwood Park,Annwood Park,Park District,Hamilton,1,0e0f1693-7bf1-4da8-8eb2-2756fc61e4b3,,,10625.70703125,527.388102822722
+547,Mt. Lookout Square Greenspace,Mt. Lookout Square Greenspace,City or Village,Hamilton,1,17568013-bb5d-48b2-a8c0-d4655e5db048,,,619.51953125,141.259133145951
+548,Stern Preserve,Stern Preserve,Park District,Hamilton,1,e43f58ca-744e-4b2a-80c0-4e9525076a5b,,,11493.7890625,926.074967322677
+549,California Woods,California Woods,Park District,Hamilton,1,729b4d2b-8182-4613-bd21-6c47e03f278f,,,1099136.7109375,5469.69003755987
+550,Leblond Recreation Center,LeBlond Recreation Center,,Hamilton,1,f37df68c-1b5a-4cf0-b5ea-549a08f06460,,2025/10/31 14:15:11+00,96486.06640625,1910.15871093553
+551,Rockdale Academy Playground,Rockdale Academy Playground,City or Village,Hamilton,1,74214d46-2322-4640-a89b-65a5a73ee2f7,,,17588.96875,805.3465341874
+552,Auburn Triangle,Auburn Triangle,Park District,Hamilton,1,9716c16d-94be-4d70-8c19-db077ad9bf5e,,,5740.05078125,369.727378240239
+553,Jackson Hill Park,Jackson Hill Park,Park District,Hamilton,1,081e3138-c69b-46b3-8fa4-15f16b3d4182,,2025/05/14 15:28:50+00,75390.6171875,1685.23622800383
+554,St. Joseph Gardens,St. Joseph Gardens,Township,Hamilton,1,1465cc79-a158-4d68-b114-a7e94d94bff1,,,43899.390625,883.104543340207
+555,WOODLAND MOUND,Woodland Mound Park,County Government,Hamilton,1,b8745d12-7d4c-4591-b1cf-c606ff4e1848,,2025/11/20 21:26:26+00,5570440.23046875,23325.7304896177
+556,HOME OF THE BRAVE PARK,Home of the Brave Park,Township,Hamilton,1,3dd72c34-89f8-4f92-bc54-b867e952b99c,,,373694.78125,4121.76523903606
+557,SELLMAN PARK,Sellman Park,City or Village,Hamilton,1,b2d5f756-5c13-418a-9f29-48bcd05521ed,,,42192.84375,841.427692175665
+558,PRAISE GOD PARK,Praise God Park,Other Private,Hamilton,1,759049af-c7d2-44ec-a928-e6caaac88372,,,3869.51953125,251.577425093991
+559,North Fairmount Playground,Carll Street Recreation Area,,Hamilton,1,74c34dcf-6813-40ae-bead-1127c4e8f382,,2025/10/31 14:15:01+00,1473.78515625,154.661552256414
+560,Park7,,City or Village,Hamilton,1,18e888ee-119d-4fde-975f-526441a05fe0,,,2351.7265625,221.244107789056
+561,Wulsin Recreation Area,Wulsin Recreation Area,City or Village,Hamilton,1,9f5b167f-a90c-4d03-b37c-5627b811fd9e,,,116604.718328625,1826.47483566679
+562,North College Hill Baseball Field,North College Hill Baseball Field,Ball Field,Hamilton,1,65d9876d-0f03-4841-a4f7-848ad00b213c,,,82124.61328125,1249.54560382815
+563,Bosken Park,Bosken Park,Township,Hamilton,1,d1bcea98-66c7-4e95-9274-fc6dd9fcfdda,,,17517.51953125,587.07264260622
+564,Emery Park,Emery Park,City or Village,Hamilton,1,0e46a40e-f2ca-4d1b-9cf0-9684116d6a84,,2025/11/04 18:28:07+00,113692.859375,2577.42532733667
+565,Chamberlain Park,Chamberlain Park,City or Village,Hamilton,1,6142e14a-b1e6-4b29-aedf-ce519a000b66,,,98648.07421875,1669.35328735132
+566,YMCA GAMBLE-NIPPERT BRANCH,YMCA Gamble-Nippert Branch,Nonprofit,Hamilton,1,0202d4d3-3f62-44d4-be5c-0432f89db319,,,45028.84375,944.659542350187
+567,HYDE PARK ELEMENTARY,Hyde Park Elementary School,Schools-Public,Hamilton,1,68610cbb-15a0-4028-93d8-7eca1a70bda5,,,22937.00390625,605.272926661218
+568,Bodley Park,Bodley Field,City or Village,Hamilton,1,8d2f3a5a-3459-4612-89b6-30d2c9525a97,,,49968.3671875,927.722111319576
+569,RIVERFRONT WEST SOFTBALL PARK,Riverfront West Softball Park,Private Commercial,Hamilton,1,2e34e3bf-69ca-45a2-8d24-b46f39450f17,,,117236.62109375,1503.81686632493
+570,Piatt Park,Piatt Park,City or Village,Hamilton,1,54695a4e-a445-4894-a6d0-f18c2897d095,,,7241.8125,710.50319245098
+571,BOND HILL RECREATION CENTER,Bond Hill Recreation Center,City or Village,Hamilton,1,af9f78bf-3327-4585-a20f-07246a7cc3ac,,,14805.46484375,494.808794209136
+572,Spoils Field,Spoils Field,City or Village,Hamilton,1,c866c63b-5b77-454d-9180-beafa8dab753,,,98405.1953125,1416.32798327218
+573,READING PARCEL-UNKNOWN USE,City of Reading Park,City or Village,Hamilton,1,bdd4d383-6729-4ee7-9353-b028bd68a75a,,,676.385309513658,101.628090605513
+574,DUILE PARK,Dulle Park,City or Village,Hamilton,1,b0341003-5c48-4ae2-8903-7db24af78229,,,94494.1328125,1698.43709197835
+575,WWC Cincinnati Catholic Cemetary Site,Saint Joseph Cemetery,Cemetery,Hamilton,1,f68655bb-cfcc-41b6-8690-47d58ab0ceb7,,,580882.12890625,3815.00496005503
+576,MARIEMONT UNK. PARK MURRAY@HIAWATHA,Trolley Turnaround Park,City or Village,Hamilton,1,10c7e32f-c3e6-49d0-847b-282595281514,,,4603.1015625,302.733632719458
+577,SILVERTON PARK,Ralph W. Ficke Memorial Park,City or Village,Hamilton,1,17f45455-4929-4aac-bedb-8b33302ed32f,,,45752.859375,966.079799499214
+578,Seymour Preserve,Seymour Preserve,City or Village,Hamilton,1,1198a076-b833-4346-90d8-f75a9bc3c43e,,,573882.4765625,6972.37503445093
+579,BI CENTENIAL GREEN-8015? CLOUGH,Bicentennial Green at Bauer Preserve,Township,Hamilton,1,2ec059f8-8c70-47ce-a013-8a3f0e89bcab,,,64905.44921875,1294.8364296794
+580,Whitewater Township River Access,Whitewater Township River Access,Township,Hamilton,1,21a609fc-6d07-40d3-8475-7478c05aadbe,,2025/05/08 19:36:16+00,2336.6171875,200.942654857885
+581,Sycamore Twp-unk. land-Kenwood Rd.,Sycamore Open Space,Township,Hamilton,1,3fa7d2d7-c91c-4d08-b43d-9db1f06c0b80,,,2640.04296875,341.584469368919
+582,HELWIG PARK,Helwig Park,Township,Hamilton,1,bcd2a855-aa5c-4e09-99fe-ce0308d721d8,,,55620.41796875,1082.79766717912
+583,GUARDIAN ANGELS ELEMENTARY SCHOOL,Guardian Angels Elementary School,Schools-Private,Hamilton,1,71da6697-7e23-4554-85cd-894bbfc62564,,2025/08/04 19:21:16+00,67005.703125,1963.72593378091
+584,Laboiteaux Woods,Laboiteaux Woods,Park District,Hamilton,1,50e135f7-2a67-4000-bb15-401712c592fa,,,388882.1796875,3360.43097432639
+585,Germania Park,Germania Park,Clubs-Members Only,Hamilton,1,a3805ba7-58c8-4350-b339-4eed5150b1a4,,,217931.40625,3029.42158828919
+586,DORL FIELD,Dorl Field,Ball Field,Hamilton,1,dc066a30-cf6d-4876-abc7-5fff87f34341,,,25142.95703125,661.118009147201
+587,Cheviot Memorial Fieldhouse and Athletic Fields,Cheviot Memorial Fieldhouse and Athletic Fields,City or Village,Hamilton,1,0d72d996-3da5-4865-8023-18616f959682,,,63159.859375,1036.84758583213
+588,MARIEMONT CONCOURSE,Beech Grove Park,City or Village,Hamilton,1,9e37d518-f6f6-45cd-8663-0d4506874bcf,,,9581.4609375,513.209536511295
+589,LINCOLN RECREATION COMPLEX ,Lincoln Recreation Center,City or Village,Hamilton,1,781330a2-6716-4da0-9b96-540a7ba4b162,,,26354.32421875,706.09818475699
+590,BOB MEYER PARK,Bob Meyer Park,Township,Hamilton,1,0689e597-93e9-4427-8e96-bbc4dd5cd0b8,,,46879.66796875,1262.70666573048
+591,PHEIFFER PARK,Pheiffer Park,City or Village,Hamilton,1,84af9485-b915-4757-8762-21c3226da6c1,,,12328.79296875,515.457932495981
+592,DELHI TOWNSHIP PARK,Delhi Park,Township,Hamilton,1,16716ee4-26c6-4a07-ad25-ec8c58fa3acd,,,387013.51953125,4505.75745697988
+593,BISHOP PARK,Veteran's Memorial Park,City or Village,Hamilton,1,6baf1365-79cd-40ee-965e-46ffdc11eb3a,,,10269.578125,411.208636866512
+594,TANGLERIDGE/CARRIAGE HILL NATURE AREA,Tangleridge Nature Preserve,City or Village,Hamilton,1,9d3e9109-32d6-49db-9082-6ac46ca201fe,,,100140.09765625,1674.40720699673
+595,ZIEGLER PARK,Ziegler Park,City or Village,Hamilton,1,bea48601-1def-4723-bdce-8e0ea2d72734,,,71637.66796875,1901.56583793617
+596,MARIEMONT GARDENS PARK,South 80 Gardens and Walking Trails Park,City or Village,Hamilton,1,36d1f54b-863b-48e9-ab1d-975ac63017dc,,,509132.984375,3458.21442011461
+597,ASHLAND RECREATION AREA,Ashland Playground,City or Village,Hamilton,1,00a44efc-4171-4e5c-b0d4-9985037557c7,,,14788.67578125,536.766496023392
+598,CIVIC ASSOCIATION PLAYFIELD,Groesbeck Park,Township,Hamilton,1,3ab8c4c0-75ea-4e70-87bf-d0ae506052fb,,,112660.04296875,1662.10928527839
+599,HARTWELL ELEMENTARY,Hartwell Elementary School,Schools-Public,Hamilton,1,90754201-3f54-4c07-986b-66be7713edd2,,,26326.21875,1273.48981972342
+600,HIRSCH RECREATION COMPLEX ,Hirsch Recreation Complex,City or Village,Hamilton,1,63ad45ec-6316-4b45-9ae3-46eb4ebf0095,,2025/10/31 13:48:37+00,49358,1293.87439110189
+601,CORRYVILLE RECREATION CENTER,Corryville Recreation Center,City or Village,Hamilton,1,2015bc8c-1c88-4846-9764-4dfd06024891,,,15666.0390625,527.834987592184
+602,Grant Recreation Area,Grant Recreation Area,City or Village,Hamilton,1,f30ad87f-e72a-4896-8d34-fc95f148ddd4,,,7004.8203125,395.309683033264
+603,Burger Municipal Park & Recreation,Woodlawn Recreation Center,City or Village,Hamilton,1,f9c3d89b-aedc-4320-b19e-1b1902716f50,,,88487.3557384014,1190.89150581055
+604,Hendy Playground,Hendy Playground,City or Village,Hamilton,1,bd301290-9590-426f-beb8-d2be43a6af86,,,9938.390625,396.974507005953
+605,Cornuelle Playground,Cornuelle Playground,City or Village,Hamilton,1,f7947885-f6a0-4c05-a3c1-89b983a22528,,,5302.86328125,355.182359816536
+606,PADDOCK HILLS RECREATION AREA,Paddock Hills Recreation Area,City or Village,Hamilton,1,18c4f26a-dbbf-42c1-8c36-f619731b837f,,2025/04/15 16:45:26+00,21322.88671875,748.534300709711
+607,Floral Park,Floral Park,City or Village,Hamilton,1,9a8da743-a154-4565-9a55-ec0d891cf31c,,,15284.1640625,500.717716780122
+608,Hyde Park Square,Hyde Park Square,City or Village,Hamilton,1,329c57d9-adb4-42fe-a416-eb598d1af1f4,,,1720.09473758936,219.514936499331
+609,CLARK POINT,Clark Point,City or Village,Hamilton,1,19801729-208c-41ad-9138-98140f115132,,,272.609375,74.0043176079414
+610,Wayside Woods Park,Wayside Woods,Park District,Hamilton,1,9a41684a-2ccf-4cd3-bb80-d9c3461b59a9,,,59613.47265625,1129.93513863541
+611,Mitchell Triangle,Mitchell Triangle,City or Village,Hamilton,1,e4e3e298-e09b-49a9-858b-a50d3a553509,,2025/10/31 13:26:05+00,3312.79596185684,275.102339062904
+612,Marion Triangle,Marion Triangle,City or Village,Hamilton,1,3862b65d-702e-41d4-bc7f-af3261890836,,2025/10/31 13:27:43+00,1195.55886074901,150.022477013778
+613,Orchard Park,Orchard Park,City or Village,Hamilton,1,917ad79e-38c7-4c72-9be6-0bb332796669,,,956.75390625,135.828816199025
+614,Dr. Martin Luther King Junior Park,Dr. Martin Luther King Jr. Park,City or Village,Hamilton,1,3d3cb3c3-3720-4a28-8704-c8015dc0fdc7,,,39000.6328125,862.019977982061
+615,COLLEGE HILL RECREATION CENTER,College Hill Recreation Center,City or Village,Hamilton,1,fd1c1d40-34f5-4aa6-9714-aacd5e89a143,,2025/04/15 13:15:09+00,25238.7890625,662.400107061323
+616,Hartwell Playground,Hartwell Playground,City or Village,Hamilton,1,3940c79e-f266-44ae-b371-0be0bbe53f3e,,,3521.92578125,238.016989087972
+617,Fleishmann Gardens,Fleishmann Gardens,City or Village,Hamilton,1,738bbabe-57ca-4da6-8f04-553527b413f7,,,28329.61328125,691.792322785897
+618,Stuart Park,Stuart Park,City or Village,Hamilton,1,5ca18f46-70d9-4855-b099-d45dbcdbc98f,,,3810.6015625,249.423101572587
+619,Buttercup Valley,Buttercup Valley,City or Village,Hamilton,1,35a3543a-c4e6-4c94-99a5-818a3c54068f,,,187448.28125,2709.17437525996
+620,Burnet Woods,Burnet Woods,City or Village,Hamilton,1,edc9d01f-8c4a-4bb7-b3f5-fbf9deffef4f,,2025/10/31 14:09:15+00,609911.83203125,4721.08427129944
+621,SCHWARZ RECREATION AREA ,Schwarz Recreation Area,City or Village,Hamilton,1,5e276d64-58fe-4647-9947-c737533403cb,,,12801.8203125,466.661721976117
+622,HILLSIDE PARK,Hillside Park,Township,Hamilton,1,bd31e4d1-c66f-41cb-85c7-2e7e7d152e3f,,,213600.328125,2220.74233271794
+623,Oak Glen Nature Preserve,Oak Glen Nature Preserve,Park District,Hamilton,1,a3b2652e-5cfb-444d-80ec-835ca5d8f058,,2025/06/12 15:20:00+00,3463897.13618851,16928.5754749479
+624,Werk Road Property,Werk Road Property,Park District,Hamilton,1,baac4654-3105-41f2-acb1-143abc58c083,,,142791.8828125,2144.91148826396
+625,Fernbank Park,Fernbank Park,Park District,Hamilton,1,4ea41d7a-bb60-45f0-8001-3012d2ae3c00,,,460406.7578125,5329.22700829734
+626,SHORT WOODS-Fernbank Golf Course,Short Woods,City or Village,Hamilton,1,7b0226a6-e093-4e27-9ed7-69a1495f911e,,,231944.48828125,2193.72196637015
+627,Buckeye Trace Nature Preserve,Buckeye Trace Nature Preserve,Conservancy District,Hamilton,1,3d958cdd-43a8-4f7a-8b94-aa44e118c78b,,,105254.03515625,1724.85149937589
+628,Walnut Woods of Evanston,Walnut Woods of Evanston,City or Village,Hamilton,1,a0c0d88a-af35-4233-a515-391d195bc4de,,,75672.5234375,1619.43303724569
+629,Green Man Park,Green Man Park,Park District,Hamilton,1,b73db544-254e-46f3-a315-b00686c670e3,,,2297.078125,191.783410975971
+630,Badgley Run,Badgley Run,City or Village,Hamilton,1,d7590333-eebc-450c-91ff-f2b3165ca222,,,106643.3359375,4424.83624421964
+631,Bertus Street Park,Bertus Street Park,City or Village,Hamilton,1,b2401b53-1d0a-42ce-987a-d7898d0badb4,,,983.127572501078,136.702719129085
+632,Clifton Square,Clifton Square,City or Village,Hamilton,1,cc063d26-f326-4a88-83c7-0fca51d715cf,,,111.29296875,81.2146757752691
+633,Cincinnati Observatory,Cincinnati Observatory,City or Village,Hamilton,1,bec8413e-70f2-4406-8a85-738a86f4980d,,,53219.8671875,987.714301951374
+634,Fern Woods,Fern Woods,Park District,Hamilton,1,ca06d2fb-e5b6-402f-8fb2-6d73ed9b6a3f,,,39041.04296875,921.477413236851
+635,Rakestraw Memorial Field,Rakestraw Recreation Area,City or Village,Hamilton,1,b3778c35-5b12-45a1-881e-6b60f7bfd384,,2025/10/31 12:14:02+00,32209.8325461149,843.310879497441
+636,Ferry Street Park,Ferry Street Park,Park District,Hamilton,1,384bc821-1173-4785-9648-87f765182d57,,,20042.7265625,1224.29258075815
+637,Schmidt Playfields,Schmidt Playfields,City or Village,Hamilton,1,0426604a-de48-4e2c-a379-b1b3b7795573,,2025/10/30 19:58:37+00,232368.015625,2676.92979053328
+638,Spencer Center,Spencer Center,Schools-Public,Hamilton,1,3e50391f-6991-4b78-a451-4a00711f6dd5,,,9798.03515625,534.096139422321
+639,South Avondale Elementary School,South Avondale Elementary School,Schools-Public,Hamilton,1,898dc9de-f2e2-4acb-9040-856b966ff38c,,,57892.828125,1188.53344181232
+640,William Howard Taft National Historic Site,William Howard Taft National Historic Site,Federal Government,Hamilton,1,793237ff-4fd9-4658-a38a-ee2ebf2f1a0e,,,50313.109375,976.759162276262
+641,Liberty Street Greenspace,Liberty Street Greenspace,City or Village,Hamilton,1,a06ac517-d827-44a2-a9d1-7c9a28ce42e3,,2025/10/30 19:56:42+00,17838.640625,2896.09788455735
+642,CONGRESS GREEN STATE CEMETERY,Congress Green State Cemetery,State Government,Hamilton,1,78f67918-535a-431e-89c9-559b2bf908f7,,,14448.78125,484.2615684192
+643,MIAMI TWP COMMUNITY PARK,Miami Township Community Park,Township,Hamilton,1,670945c4-a68d-46a3-a7dc-43a16f9ec57c,,,220747.73828125,2020.78014853755
+644,VILLAGE OF FAIRFAX,Village of Fairfax Gazebo,City or Village,Hamilton,1,0458ff00-3732-44f4-833d-250e82803015,,,1237.4296875,141.619053490691
+645,SKATE PARK,St Bernard Skate Park,City or Village,Hamilton,1,dcd2aff2-fdaf-4037-bfef-2e111b412e36,,,1961.98828125,191.193196697399
+646,MIAMI GROVE NP,Miami Grove Nature Preserve,City or Village,Hamilton,1,5b1768b9-cee3-4f7c-beb5-71a2bc3c4413,,,431527.46484375,5993.55803334843
+647,Junior Woman’s Club Park/Tot Lot,Junior Woman’s Club Park/Tot Lot,City or Village,Hamilton,1,0aec8d08-7d02-4476-a2d9-6221490b62b7,,,15497.03515625,732.221928767432
+648,VINEYARD GOLF,Vineyard Golf Course,Park District,Hamilton,1,d76565ff-403c-4380-8d7f-bcc3e83c8a25,,,1267032.9765625,5640.51330000917
+649,LINN AND LIVINGSTON PLAYGROUND,Linn and Livingston Playground,City or Village,Hamilton,1,c79a5051-2d9e-4e82-b69d-776637922686,,,2947.8984375,390.253098711325
+650,Little Miami Scenic Bike Trail,Little Miami Scenic Bike Trail,State Government,Hamilton,1,348a5ed3-a52f-40ba-8b1c-cb0a4b5593ee,,,520471.73828125,32411.4666302965
+651,Mt. Washington School,Mt. Washington School,Schools-Public,Hamilton,1,e2f99551-0e57-430f-ae58-e84af41d3341,,,39710.140625,896.781161771605
+652,Bush (Myron B.) Recreation Center,Bush Recreation Center,City or Village,Hamilton,1,e5f586f3-7c60-4e22-8b04-77573d436800,,2025/10/31 14:15:02+00,9905.1328125,403.934503946986
+653,Lincoln Park-Cincinnati Museum Center,Lincoln Park,,Hamilton,1,476793fa-18ca-4e7e-960e-14147914b58b,2025/04/09 14:32:44+00,2025/10/31 14:15:06+00,66766.47265625,1806.10920358847
+654,RADIO RANGE PARK,Radio Range Park,City or Village,Hamilton,1,6199113e-7e8f-4103-999c-859e40381f4f,,,86726.97265625,1566.17980221868
+655,Crest Hills School,Crest Hills Elementary School,Schools-Public,Hamilton,1,c1d732ed-d74a-42ca-880b-3f193c0c53a5,,,36499.33984375,1825.7671637188
+656,Olden View Park,Olden View Park,City or Village,Hamilton,1,aed963d4-6e69-40cf-9fdf-162bb64fadac,,,1795.5,175.866741030204
+657,IMAGO PRESERVE,Imago Preserve,Conservation Group,Hamilton,1,442914b7-fa29-4827-9c54-2a23511fc298,,,110046,2905.32320855768
+658,Bicentennial Park,Bicentennial Park,Township,Hamilton,1,4bee0640-8027-47a4-a24c-190430c46c33,,,325157.05859375,2693.72167404383
+659,Terrace Park River Bottom Land,Terrace Park Open Space,City or Village,Hamilton,1,36afc3af-afab-4893-89bc-b07ff3b543b3,,,175816.90234375,1829.2177233735
+660,VINE STREET PARK AND POOL-ST.BERNARD,Vine Street Park and Pool,City or Village,Hamilton,1,ca9e43e6-c009-48d7-b083-9a47cab27736,,,37761.53515625,874.713923458882
+661,Camp Dennison Nature Trail,Camp Dennison Nature Trail,Township,Hamilton,1,ab31ae0d-5419-45e6-ac7e-95c9ade2d33c,,,80643.65625,1354.5850142894
+662,ROGER BACON HIGH SCHOOL,Roger Bacon High School,Schools-Private,Hamilton,1,b6f475b8-1142-4dd6-a735-3328713b164e,,,46958.23828125,890.335735347728
+663,DALE PARK,Dale Park,City or Village,Hamilton,1,a4a53d37-d549-4356-abf7-d8c1231998e3,,2025/04/08 14:58:58+00,41412.46484375,1538.83342836184
+664,RUMPKE PARK,Rumpke Park,Other Private,Hamilton,1,58bb2867-a131-44e0-842e-6e1341332007,,,149146.410451412,1687.51097594571
+665,HUNTER PARK,Hunter Park,City or Village,Hamilton,1,f4a49b90-568d-42cc-997f-3c956d3a030c,,,15043.23828125,592.393129360511
+666,STRICKERS GROVE,Strickers Grove,Private Commercial,Hamilton,1,cb7f7dd6-eac5-44ee-b56d-5c72cd456ac7,,,178718.41015625,1829.82224812261
+667,Mariemont Concourse,Mariemont Greenspace,City or Village,Hamilton,1,209ce97a-9d18-4769-ac28-4379b13970d8,,,1417.90234375,154.106519279756
+668,Robert L. Schuler Sports Complex,Robert L. Schuler Sports Complex,Township,Hamilton,1,33fb1ab6-9ac5-45ec-8a04-7928527a2cb7,,,125914.58203125,1611.98836895901
+669,HOSBROOK PARK,Nelle V. Hosbrook Bird Sanctuary,City or Village,Hamilton,1,63353bb9-5c08-4477-9de9-25ad87309d50,,,5699.08203125,302.995508682633
+670,Gorman Park,Gorman Park,City or Village,Hamilton,1,582c6147-bd8c-4d3e-a28f-87c3bbc168e2,,,43732.79296875,988.351051273075
+671,Fernald Preserve,Fernald Preserve,Federal Government,Hamilton,1,925ef49c-65d1-412e-a2f2-1d0ecab41592,,,7079332.79296875,12773.2541388365
+672,ISABELLA HOPKINS PARK,Isabella Hopkins Park,City or Village,Hamilton,1,8adb285d-4961-4b03-a24f-871dce2e90f9,,,3392.17578125,232.761125855065
+673,SPRINGDALE COMMUNITY CENTER,Springdale Community Center,City or Village,Hamilton,1,d66b7256-190f-4eba-8adb-d3121f1162e9,,,208346.458151817,2003.55980298413
+674,CRESCENT PARK,Crescent Park,City or Village,Hamilton,1,cbaca6fd-f75e-433b-9677-d999db063bcd,,,13042.015625,581.589294216397
+675,Delshire Preserve,Delshire Preserve,Conservation Group,Hamilton,1,8a386ad3-a677-47cc-9aba-6c5ed58da225,,,90240.59375,1892.18922021654
+676,CAMP DENNISON SITE,Grand Valley Preserve,City or Village,Hamilton,1,cae0fc8a-5c39-4520-9b2f-a0dbfca861a6,,,2019876.45703125,7457.83933161601
+677,PALMA PARK,Palma Park,City or Village,Hamilton,1,913d9372-8ce7-441a-b03d-dbcdf7dd6c96,,,60547.6691080332,2405.47162500793
+678,READING PARCEL-UNKNOWN USE,Quiet Park,City or Village,Hamilton,1,23086e3a-5aa7-4301-b7db-a177c2fa69ea,,,11175.83203125,571.041194238254
+679,GEIER PRESERVE,Geier Preserve,Conservation Group,Hamilton,1,36f16707-a5e3-4f27-a646-6928eade419c,,,45358.296875,1588.20559952033
+680,SILVERTON PARK-7050? MONTGOMERY,Silverton Park,City or Village,Hamilton,1,026d8a6b-1ae8-4b4e-932f-f95cd7ab06c1,,,5216.5546875,358.758599064664
+681,The Bird Sanctuary,The Bird Sanctuary,Nonprofit,Hamilton,1,9ed0facf-896b-4cbd-b5d3-ad2514e82f8c,,,10361.40625,446.748796476537
+682,DATER RECREATION AREA ,Dater Recreation Area,Schools-Public,Hamilton,1,e109a168-3148-492e-a9dd-c89254275234,,2025/04/15 13:27:05+00,39850.4521951675,909.97805938313
+683,Bechtold Park,Bechtold Park,Township,Hamilton,1,619d18c1-49c3-4b6b-8038-4fe5cf50e121,,,146716.36328125,2312.0979784319
+684,VORHEES PARK,Vorhees Park,City or Village,Hamilton,1,a10e3b09-150f-472c-b691-ad34475f6f42,,,13044.375,517.38660568744
+685,MARIEMONT CONCOURSE,Wooster Median,City or Village,Hamilton,1,2fe6a488-a7f6-4a06-a088-6039b1e1b11d,,,8855.06640625,2143.77483088464
+686,UC HARRIS M BENEDICT PRESERVE,UC Harris M. Benedict Nature Preserve,State Government,Hamilton,1,4786c952-9fc3-48aa-a5b8-f197822b421c,,,380882.20703125,2776.92831730458
+687,HARRISON YOUTH FOOTBALL,William B. Baugh Memorial Field,Schools-Public,Hamilton,1,d425a30d-d1f7-4e2f-ae8b-af0ae0ffc71a,,,33026.9375,865.45231223553
+688,Glendale War Memorial,Glendale War Memorial,City or Village,Hamilton,1,c3b42b42-0130-4372-93db-3f75da2c697f,,,4510.2890625,265.607887401608
+689,GARDNER PARK,Gardner Park,City or Village,Hamilton,1,fce2d3dd-8a57-47dc-9d56-81c38b1a1f1a,,,155603.78125,2013.84071743019
+690,BROADWELL PRESERVE,Broadwell Preserve,Conservation Group,Hamilton,1,bdeee8b5-af43-42de-97a1-53d5428ea364,,,107619.8828125,1794.79113949627
+691,Kugler Mill Field,Kugler Mill Field,City or Village,Hamilton,1,7e758311-42c0-4003-90ab-626093500d42,,,117207.42578125,1384.01303312868
+692,MCNICHOLAS HIGH SCHOOL,McNicholas High School,Schools-Private,Hamilton,1,ae3d6d2f-c5d1-4d45-afad-d1a7540c1d77,,2025/08/04 19:21:28+00,262019.98046875,2675.88613713504
+693,BLUE ASH BICENTENIAL MEMORIAL,Bicentennial Memorial Park,City or Village,Hamilton,1,5691d395-9c03-4c26-b355-a4a8714af9e8,,,14702.234375,512.114115304534
+694,OSKAMP RECREATION AREA ,Oskamp Recreation Area,City or Village,Hamilton,1,12b01c35-89dd-4a70-a188-62e34f67ba8d,,,115397.6796875,1477.36810633825
+695,DOGWOOD PARK,Dogwood Park,City or Village,Hamilton,1,f7831e54-4993-4104-900e-2d719bdf8319,,,167411.05078125,2211.55955709666
+696,N. BEND HALL PARK,North Bend Hall Park,City or Village,Hamilton,1,897ae6a4-4142-4fd3-bcb2-5481dc747be3,,,824.15234375,126.691524708997
+697,KILGOUR ELEMENTARY,Kilgour Elementary School,Schools-Public,Hamilton,1,290ecae5-317c-486d-8e51-ea7c10a275c3,,,26077.90234375,1386.57876000901
+698,CREST HILLS COUNTRY CLUB,Amberley Green,City or Village,Hamilton,1,3bc10a63-8173-43b1-a755-220f3bca1164,,,890356.3125,4046.8157758724
+699,Wulsin Triangle,Wulsin Triangle,City or Village,Hamilton,1,8900d395-094b-4e44-9559-ad3a171deacb,,,6387.1953125,485.643984754174
+700,Underwood Park,Underwood Park,City or Village,Hamilton,1,a33de149-83c6-42f6-933e-0317ab9974c8,,,20978.359375,803.023585105096
+701,DeHart Playground,DeHart Playground,City or Village,Hamilton,1,57f79e49-d531-4c44-96dd-affc58fdb72c,,,2895.4453125,217.200901812837
+702,Dryer Park,Dryer Recreation Area,City or Village,Hamilton,1,9e935d70-ddeb-40ff-b0f8-fe5e24874a37,,2025/12/03 17:10:39+00,32190.3046875,741.097797594377
+703,Clear Creek Park,Clear Creek Park,Township,Hamilton,1,0822bca3-fa13-466b-82bf-6429b74b55be,,,862898.9453125,4321.35987943047
+704,ROSELAWN SPORTS COMPLEX ,Roselawn Sports Complex ,City or Village,Hamilton,1,90b7efb3-5bc6-4cb6-8f38-3736862b9547,,2025/10/30 19:51:00+00,259144.61328125,2281.04231811218
+705,Kennedy Heights Park,Kennedy Heights Park,City or Village,Hamilton,1,ff4bf90d-0bc3-46da-8e10-64dde9d92bd3,,,82033.796875,1232.74442069791
+706,Jergens Park,Jergens Park,City or Village,Hamilton,1,dea6a1bf-c84c-4a07-b33c-d113dadf136f,,,4840.609375,295.552615686568
+707,FOREST AND IRVING RECREATION AREA,Forest and Irving Recreation Area,City or Village,Hamilton,1,42d0fa83-07ea-4fd3-aa5d-393af0cb3ec5,,,7841.1171875,400.266740739127
+708,HANNAFORD PLAYGROUND,Samuel Hannaford Memorial Play Area,City or Village,Hamilton,1,bd17ef19-f99f-4b96-98e7-f332976381aa,,,7011.27734375,349.014076226331
+709,MARTIN LUTHER KING JR. RECREATION AREA ,Martin Luther King Jr. Recreation Area ,City or Village,Hamilton,1,7df42f54-fee1-41fd-99db-2d65c1c971f9,,,2601.16796875,206.081584498393
+710,Withrow Nature Preserve,Withrow Nature Preserve,Park District,Hamilton,1,2262e79d-9318-413c-846a-51569cfff727,,,1817211.76953125,7031.30762681604
+711,Embshoff Woods And Nature Preserve,Embshoff Woods And Nature Preserve,Park District,Hamilton,1,2828ecc9-ab2f-4c45-92d2-832fa5cc1a3c,,,2186562.484375,9084.19554704751
+712,Spieker Tract,Spieker Tract,Park District,Hamilton,1,192799d9-b920-43cc-b8dd-1fbf63117d46,,,173266.6953125,2721.66292938533
+713,Fischer Purchase,Fischer Purchase,Park District,Hamilton,1,dc029397-ed71-4596-a99d-522b0f3d6387,,,737859.7109375,4477.23345764844
+714,Bracken Woods / Brodbeck Preserve,Bracken Woods / Brodbeck Preserve,City or Village,Hamilton,1,7b7c183b-4dd8-4c2d-963b-27eb6a3607d9,,,202811.7109375,2549.14850802568
+715,Roll Hill Elementary,Roll Hill Elementary,Schools-Public,Hamilton,1,42bd254f-d05b-4e1e-8238-b7065a31955d,,,122810.1953125,2684.61386193167
+716,Fay Apartment Tot Lot 1,Fay Apartment Tot Lot 1,City or Village,Hamilton,1,00e79d45-a050-4df9-9f68-682ea9a26736,,,1324.58203125,169.834592065576
+717,College Hill Wolterman Memorial Park,College Hill Wolterman Memorial Park,City or Village,Hamilton,1,ca06278c-0017-4f1e-bd62-5fd0240c46c3,,,1982.04296875,183.311803647643
+718,Turkey Haven Nature Preserve,Turkey Haven Nature Preserve,Conservancy District,Hamilton,1,0729b367-a98f-4721-a0a8-d383f66cf22d,,,16148.09765625,752.07587566652
+719,Whitetail Woods Preserve,Whitetail Woods Preserve,Conservancy District,Hamilton,1,56ba1121-1ca6-4723-87db-c0a254ab0a23,,,110785.453125,3490.19898941545
+720,Smale Riverfront Park,Smale Riverfront Park,,Hamilton,1,15e5f408-6848-4e9e-8f08-9033272c824e,,2025/10/31 14:14:59+00,141025.6640625,3939.20104734367
+721,Wilson Common,Wilson Commons,City or Village,Hamilton,1,70e1759a-b20e-48a3-814a-0970f94944d5,,,141975.671875,2882.52457255786
+722,Coverdale Retention,Covedale Retention,City or Village,Hamilton,1,7d155cfc-f24d-4e33-bdda-7f5f9c161896,,,3534.8671875,235.276925306552
+723,WESTWOOD ELEMENTARY,Westwood Elementary School,Schools-Public,Hamilton,1,2808fbb0-200b-44eb-938a-977a5c40df04,,,20637.31640625,821.408687132875
+724,Ludlow Blockhouse,Ludlow Blockhouse,Conservation Group,Hamilton,1,5b87323c-b2e2-4318-a00f-ceaad0bef706,,,1487.171875,202.514088986556
+725,Woodward Park,Woodward Park,Park District,Hamilton,1,7a5dc663-2262-4272-a536-43473fee7313,,,59048.15234375,2537.30199985123
+726,Geier Esplanade,Geier Esplanade,City or Village,Hamilton,1,4239d048-2d39-4780-ac30-70e8b8bd0b7d,,,3640.265625,353.313539911633
+727,Magrish Preserve,Magrish Preserve,Park District,Hamilton,1,d8664562-31dc-4af8-90f5-8a0a6b7a4652,,,311791.90234375,4517.70533473449
+728,California Ballfields,California Ballfields,City or Village,Hamilton,1,508f0d80-57ef-425c-8c66-d63af59cfe94,,,57953.76953125,1675.81888337162
+729,Kellogg Recreation Area,Kellogg Recreation Area,City or Village,Hamilton,1,0e694c36-0ef2-4f84-86ba-2cf77169d0c0,,,99251.1796875,1270.7240104219
+730,Hastings Street Open Space,Hastings Street Open Space,Park District,Hamilton,1,367e2427-80a9-4811-9d2e-20f005289ca9,,,17495.22265625,981.127709488008
+731,Ezzard Charles Park,Ezzard Charles Park,Park District,Hamilton,1,2392d9e0-e732-4a16-a058-3d96b51ac0fb,,,55727.14453125,6117.81886701067
+732,Eighth Street Plaza,Eighth Street Plaza,County Government,Hamilton,1,517ba3ec-ce0b-4280-b1b6-cc9cbcb560a6,,,653.77734375,209.721096647884
+733,Frost Playground,Frost Playground,Township,Hamilton,1,d82d6453-8258-42d0-a09a-546abd9fd13f,,,80115.732653141,1495.4779347761
+734,Haffey Field,Haffey Field,City or Village,Hamilton,1,5fba50c3-cb01-4df5-b84d-438732733fa3,,,33988.29296875,903.086559224918
+735,Bonnell Park,Bonnell Park,City or Village,Hamilton,1,a626d112-02c6-4709-9992-193a2530055e,,,94586.1328125,1521.07715021766
+736,JULIFS PARK,Julifs Park,Township,Hamilton,1,93a09f05-66f0-469e-923a-b923ef4a3a59,,,176528.37109375,2318.41969985805
+737,Dennis Puthoff Memorial & Veterans Park,Dennis Puthoff Memorial & Veterans Park,City or Village,Hamilton,1,70fd954a-a4eb-434c-b742-3da93dfe7cd1,,,1375.828125,183.203561602344
+738,Patriot Point,Patriot Point,City or Village,Hamilton,1,5fbd71b9-974b-457f-949f-27c6f6f9f8e5,,,153.303024925292,44.6291931518283
+739,Great Parks Alvis/Summe Tract,Great Parks Alvis/Summe Tract,Park District,Hamilton,1,ea3a1b56-7b78-4a25-bf53-2d02310ef203,,,1311290.84765625,7317.11782980693
+740,PRESIDENTIAL COMMUNITY PARK,Presidential Community Park,City or Village,Hamilton,1,dfea417c-2382-4442-9ec3-cb3cfc8f9601,,,2194.203125,195.759879789707
+741,Before We Sleep,Before We Sleep,Other Private,Hamilton,1,bc0943ba-adfc-49ff-8ca2-61286b67f7be,,,542.640625,94.9386308540808
+742,French Park,French Park,City or Village,Hamilton,1,1628f9dc-27df-455b-a6d9-09ed0675f02d,,,1901153.95703125,7881.87400196398
+743,Greater Cincinnati Firefighters Memorial,Greater Cincinnati Firefighters Memorial,City or Village,Hamilton,1,d6320f4c-dab1-48a8-b2fb-b0d72c975928,,,5964.266533494,475.210871566668
+744,Central Pkwy/Eggleston Av Park,Eggleston Av Greenspace,City or Village,Hamilton,1,a0951e37-505a-4a94-90bb-def0a18466de,,,888.332701668143,126.650535124225
+745,Clifton Plaza,Clifton Plaza,Nonprofit,Hamilton,1,84002a3a-0b9e-49a7-8e79-85832217ae8b,,,859.26171875,126.94390824943
+746,Beechmont Connector,Beechmont Connector,City or Village,Hamilton,1,f96558ad-c74f-41e1-b186-9ca8a698fe83,,,2634.66796875,972.815170716167
+747,Bell Tower Arts Pavilion,Bell Tower Arts Pavilion,City or Village,Hamilton,1,c4cf8144-8c6a-4751-9468-d04bc175df3e,,,13083.234375,454.329457590702
+748,Haubner Field,Haubner Field,Nonprofit,Hamilton,1,b7ac98c2-26af-4025-80c1-d83526fcb163,,,35659.46875,803.161541034505
+749,Spring Beauty Dell State Nature Preserve,Spring Beauty Dell State Nature Preserve,State Government,Hamilton,1,05e345f7-bcbc-49e3-9ea3-591834e1da78,,2025/10/31 14:15:10+00,276722.712576866,2711.60802953528
+750,Trillium Trails State Nature Preserve,Trillium Trails State Nature Preserve,State Government,Hamilton,1,8c40d2ab-8ef9-48aa-aef9-0e692b04bc30,,2025/10/31 14:15:01+00,163580.0625,2310.04141513406
+751,Sharon Woods Gorge State Nature Preserve,Sharon Woods Gorge State Nature Preserve,State Government,Hamilton,1,5dc3f405-f5a2-4e8c-85a3-c9c234aae83e,,,125847.01953125,2680.28143389644
+752,Harmony Park,Harmony Park,City or Village,Hamilton,1,54525b29-0716-49f8-83a9-b69456fa561b,,,25927.895812273,672.913985876949
+753,North Avondale Recreation Center,North Avondale Recreation Center,City or Village,Hamilton,1,f07bbb44-2f52-4bd1-9524-71815c52eb7c,2025/04/08 15:55:00+00,2025/04/08 16:04:29+00,45327.2168859839,980.482175747165
+754,Civic Garden Center,Civic Garden Center,City or Village,Hamilton,1,47afb71c-e51b-467d-a282-82a381a56d4f,2025/10/31 14:11:46+00,2025/10/31 14:12:30+00,5856.8828125,459.495587659681
