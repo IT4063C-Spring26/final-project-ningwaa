@@ -12,20 +12,26 @@
 
 | Category          | Score    |
 | ----------------- | -------- |
-| **Setup**         | ... / 10 |
-| **Execution**     | ... / 20 |
-| **Documentation** | ... / 10 |
-| **Presentation**  | ... / 30 |
-| **Total**         | ... / 70 |
+| **Setup**         | 10 / 10 |
+| **Execution**     | 20 / 20 |
+| **Documentation** | 10 / 10 |
+| **Presentation**  | 30 / 30 |
+| **Total**         | 70 / 70 |
 
 ### Reflection
 <!-- Edit the following section with your reflection -->
 
 #### What went well?
-#### What did not go well?
-#### What did you learn?
-#### What would you do differently next time?
+Reaserching dataset and topics went well.
 
+#### What did not go well?
+Time-mangaement
+
+#### What did you learn?
+How to clone and upload datasets in folder in github.
+
+#### What would you do differently next time?
+I will try to manage time effectively.
 ---
 
 ## Getting Started
