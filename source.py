@@ -57,7 +57,7 @@
 # 
 # 3. Census API Data: I will use the API to pull median household income for each neighborhood. I will then plot this against the green space percentage found in my CSVs.
 
-# In[14]:
+# In[24]:
 
 
 # Start your code here
@@ -81,7 +81,7 @@ except FileNotFoundError as e:
     print(f"❌ Error: {e}. Make sure the files are in the exact same folder as this script!")
 
 
-# In[6]:
+# In[25]:
 
 
 import matplotlib.pyplot as plt
@@ -138,7 +138,7 @@ print("Neighborhoods columns:", neighborhoods.columns.tolist())
 print("Parks columns:", parks.columns.tolist())
 
 
-# In[12]:
+# In[26]:
 
 
 # To see if the name of a park contains the neighborhood name
@@ -150,24 +150,135 @@ print("Sample Parks:", sample_parks.values)
 print("Sample Neighborhoods:", sample_neighborhoods.values)
 
 
-# In[16]:
+# In[29]:
 
 
+#DataCleaning
+#1. The "Frequency Audit"
+anomalies = ['PRACTICE FIELD', 'MEDIAN', 'SPRING SITE', 'NURSERY']
+
+found_anomalies = parks[parks['NAME'].str.contains('|'.join(anomalies), case=False, na=False)]
+print("Sample of Identified Anomalies:")
+print(found_anomalies[['NAME', 'PARKTYPE']].head(10))
+
+
+# Anomaly Handling
+# During the cleaning process, I identified several entries that are technically "green" but do not serve the public as recreational parks. Examples include:
 # 
-def link_neighborhood(park_name):
+# Professional Sports Facilities: Bengals Practice Field.
+# Infrastructure/Medians: Chestnut Ridge Median.
+# Utility/Administrative Sites:Warder Nursery.
+# 
+# Action: I have flagged these {is_anomaly.sum()} entries for removal.
+# Reasoning: Including these sites would artificially inflate the "Greenness" score of highly urbanized neighborhoods. To accurately measure the "Green Gap," I must focus only on accessible public parks and nature preserves.
 
-    park_str = str(park_name).lower()
+# In[31]:
 
-    neighborhood_list = ['Westwood', 'Oakley', 'Clifton', 'Downtown', 'Mt. Airy', 'Hyde Park'] 
 
-    for n in neighborhood_list:
-        if n.lower() in park_str:
-            return n
-    return "Other/Unlinked"
+# Clean code
+exclude_list = ['PRACTICE FIELD', 'SPRING SITE', 'NURSERY', 'MEDIAN']
 
-parks['SNA_NAME'] = parks['NAME'].apply(link_neighborhood)
-print(parks['SNA_NAME'].value_counts())
+parks_cleaned = parks[~parks['NAME'].str.contains('|'.join(exclude_list), case=False, na=False)].copy()
+print(f"Rows removed: {len(parks) - len(parks_cleaned)}")
+print(f"Remaining parks for analysis: {len(parks_cleaned)}")
 
+
+# In[34]:
+
+
+# Data Cleaning 2
+parks_cleaned['SNA_NAME'] = parks_cleaned['NAME'].apply(link_neighborhood)
+neighborhood_greenery = parks_cleaned.groupby('SNA_NAME')['SHAPE__Area'].sum().reset_index()
+
+neighborhood_greenery.columns = ['SNA_NAME', 'total_park_area']
+print(neighborhood_greenery.head())
+
+
+# In[35]:
+
+
+# 1. Merge the aggregated park data with your 50 Neighborhoods
+final_df = pd.merge(neighborhoods, neighborhood_greenery, on='SNA_NAME', how='left')
+
+# 2. Imputation: Change NaN to 0 for neighborhoods that didn't match a park name
+final_df['total_park_area'] = final_df['total_park_area'].fillna(0)
+
+# 3. Calculate the 'Green Ratio' (Park Area divided by Neighborhood Total Area)
+final_df['green_ratio'] = final_df['total_park_area'] / final_df['ACRES']
+
+print("--- Top 5 Greenest Neighborhoods (Based on Keyword Matches) ---")
+print(final_df[['SNA_NAME', 'green_ratio']].sort_values(by='green_ratio', ascending=False).head())
+
+
+# Analysis: The Green Space Ratio
+# By merging the cleaned park data with the official neighborhood boundaries, I have created a Green Ratio metric. This value represents the percentage of a neighborhood's total acreage that is dedicated to public parks.
+# 
+# Data Normalization: This step is crucial because comparing raw acreage would unfairly favor large neighborhoods like Westwood. The ratio allows for an apples-to-apples comparison of green access regardless of neighborhood size.
+# 
+# Current Limitation: Because this is based on string-matching, neighborhoods with zero parks currently listed may actually have parks that were simply not named after the neighborhood (e.g., Eden Park in Walnut Hills). This will be resolved in the final project via Spatial Joining.
+
+# In[36]:
+
+
+# Data Cleaning 3
+parks_cleaned['NAME'] = parks_cleaned['NAME'].str.strip().str.lower()
+neighborhoods['SNA_NAME'] = neighborhoods['SNA_NAME'].str.strip().str.lower()
+print("Sample of Normalized Park Names:")
+print(parks_cleaned['NAME'].head())
+
+
+# The Issue: The Hamilton County dataset uses inconsistent casing (e.g., "WESTWOOD") compared to the Cincinnati SNA dataset ("Westwood"). Additionally, hidden leading/trailing whitespace ("ghost spaces") can prevent successful joins.
+# 
+# The Action: I applied .str.strip().str.lower() to the primary key columns in both datasets.
+# 
+# The Reason: This "Case Folding" technique ensures that string-matching is case-insensitive, significantly increasing the count of successfully linked parks and reducing data fragmentation.
+
+# In[37]:
+
+
+#Visualization
+top_10_green = final_df.sort_values(by='green_ratio', ascending=False).head(10)
+
+plt.figure(figsize=(12, 6))
+sns.barplot(data=top_10_green, x='SNA_NAME', y='green_ratio', palette='viridis')
+plt.title('Top 10 Greenest Neighborhoods (Keyword Match Linkage)')
+plt.ylabel('Green Space Ratio')
+plt.xticks(rotation=45)
+plt.show()
+
+
+# In[38]:
+
+
+# Data Cleaning 4
+final_df = pd.merge(neighborhoods, neighborhood_greenery, on='SNA_NAME', how='left')
+
+missing_count = final_df['total_park_area'].isna().sum()
+print(f"Neighborhoods with no linked parks (NaN): {missing_count}")
+
+
+# In[39]:
+
+
+final_df['total_park_area'] = final_df['total_park_area'].fillna(0)
+print(f"Neighborhoods with NaN after fix: {final_df['total_park_area'].isna().sum()}")
+
+
+# The Problem: After performing a left merge between the Neighborhood boundaries and the Linked Parks dataset, neighborhoods that did not have a keyword match in the park names appeared as NaN (Not a Number).
+# 
+# The Action: I utilized the .fillna(0) method to impute a value of 0 for all missing park acreage entries.
+# 
+# The Reason: This is a necessary step for Data Integrity. Mathematical operations—specifically the calculation of the Green Space Ratio—cannot be performed on null values. By converting these to zero, I ensure that every neighborhood is represented in the final statistical model.
+
+# In[40]:
+
+
+#Final Check
+final_df['green_ratio'] = final_df['total_park_area'] / final_df['ACRES']
+print(final_df[['SNA_NAME', 'total_park_area', 'green_ratio']].head(10))
+
+
+# #section: Visualization
 
 # In[17]:
 
@@ -219,7 +330,7 @@ plt.show()
 # *What resources and references have you used for this project?*
 # 📝 <!-- Answer Below -->
 
-# In[21]:
+# In[22]:
 
 
 # ⚠️ Make sure you run this cell at the end of your notebook before every submission!
