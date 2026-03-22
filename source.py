@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # {}📝
+# # {Cincinnati's "Green Gap" Analysis}📝
 # 
 # ![Banner](./assets/banner.jpeg)
 
-# ## Topic
+# ## Cincinnati's Distribution of Green Space
 # *What problem are you (or your stakeholder) trying to address?*
 # Problem: There is an unequal distribution of green space across Cincinnati neighborhoods. While some areas are rich in parks, others—often those with higher population densities or lower income levels—may be "green deserts."
 # Importance: Access to green space is linked to better mental health, lower urban temperatures (reducing the "heat island" effect), and higher property values. Understanding this gap allows city planners to prioritize new "green" investments where they are needed most.
@@ -219,7 +219,7 @@ plt.show()
 # *What resources and references have you used for this project?*
 # 📝 <!-- Answer Below -->
 
-# In[11]:
+# In[21]:
 
 
 # ⚠️ Make sure you run this cell at the end of your notebook before every submission!
