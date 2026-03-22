@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # {Project Title}📝
+# # {}📝
 # 
 # ![Banner](./assets/banner.jpeg)
 
@@ -19,8 +19,6 @@
 # ## What would an answer look like?
 # *What is your hypothesized answer to your question?*
 # 📝  I hypothesize that neighborhood size is not a predictor of green space access. I expect my analysis to reveal that wealthier neighborhoods (like Mt. Lookout or Hyde Park) have a higher ratio of dedicated park acreage and 'nature preserve' types of parks compared to lower-income or more densely populated areas. I also hypothesize that there is a negative correlation between population density and park acreage, meaning that the people who need cooling and outdoor space the most often have the least amount of it
-
-# 
 
 # ## Data Sources
 # *What 3 data sources have you identified for this project?*
@@ -59,7 +57,7 @@
 # 
 # 3. Census API Data: I will use the API to pull median household income for each neighborhood. I will then plot this against the green space percentage found in my CSVs.
 
-# In[7]:
+# In[14]:
 
 
 # Start your code here
@@ -83,11 +81,145 @@ except FileNotFoundError as e:
     print(f"❌ Error: {e}. Make sure the files are in the exact same folder as this script!")
 
 
+# In[6]:
+
+
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Visualization 1: Distribution of Park Sizes (using Matplotlib)
+plt.figure(figsize=(10, 6))
+plt.hist(parks['SHAPE__Area'], bins=50, color='green', edgecolor='black')
+plt.title('Distribution of Park Sizes in Hamilton County')
+plt.xlabel('Area (Square Units)')
+plt.ylabel('Frequency')
+plt.show()
+
+
+# #Exploratory Data Analysis (EDA)
+# 
+# Initial Insights
+# My EDA focused on the physical footprint of Cincinnati's green infrastructure. I discovered that while Hamilton County has 754 park entries, they are not evenly distributed.
+# 
+# Distributions: Most parks are small community lots (under 5 acres), but a few "Anchor" parks like Mt. Airy Forest represent the majority of total acreage.
+# 
+# Correlations: I am investigating the link between a neighborhood's total size (ACRES) and its available park space.
+# 
+# Issues: The primary issue is a lack of a "Shared Key" between the Neighborhood and Parks datasets, which I addressed in the cleaning section.
+# 
+# #Visualization Descriptions:
+# 
+# Park Type Bar Chart: Shows that "Greenspace-Hillside" is the most common type, though these may have lower accessibility than "Nature Preserves."
+# 
+# Top 10 Parks Bar Chart: Identifies the massive outliers that skew acreage data.
+# 
+# Neighborhood Histogram: Shows that Cincinnati neighborhoods vary wildly in size, confirming the need for a "Park-to-Land" ratio.
+# 
+# Linkage Audit: A pie chart showing the percentage of parks successfully matched to neighborhoods via string-matching.
+# 
+# #The Cleaning Process
+# To prepare this data for analysis, I performed the following steps:
+# 
+# Type Conversion: I encountered a TypeError during string matching; I fixed this by forcing the NAME column to a string type using str() to handle null values.
+# 
+# Standardization: I converted all neighborhood names and park names to lowercase and stripped whitespace to improve matching accuracy.
+# 
+# Missing Values: Neighborhoods that did not match any parks were assigned a value of 0 rather than NaN to allow for statistical calculations.
+# 
+# Anomaly Handling: I identified non-recreational "parks" (like practice fields) that may need to be filtered out in the final stage to avoid bloating the "Greenness" score.
+# 
+# 
+# 
+
+# In[8]:
+
+
+print("Neighborhoods columns:", neighborhoods.columns.tolist())
+print("Parks columns:", parks.columns.tolist())
+
+
+# In[12]:
+
+
+# To see if the name of a park contains the neighborhood name
+# example: Mount Airy Forest in neighborhood Mount Airy
+sample_parks = parks['NAME'].head(20)
+sample_neighborhoods = neighborhoods['SNA_NAME'].head(20)
+
+print("Sample Parks:", sample_parks.values)
+print("Sample Neighborhoods:", sample_neighborhoods.values)
+
+
+# In[16]:
+
+
+# 
+def link_neighborhood(park_name):
+
+    park_str = str(park_name).lower()
+
+    neighborhood_list = ['Westwood', 'Oakley', 'Clifton', 'Downtown', 'Mt. Airy', 'Hyde Park'] 
+
+    for n in neighborhood_list:
+        if n.lower() in park_str:
+            return n
+    return "Other/Unlinked"
+
+parks['SNA_NAME'] = parks['NAME'].apply(link_neighborhood)
+print(parks['SNA_NAME'].value_counts())
+
+
+# In[17]:
+
+
+#(Matplotlib) Distribution of Park Types
+import matplotlib.pyplot as plt
+plt.figure(figsize=(10,6))
+parks['PARKTYPE'].value_counts().plot(kind='bar', color='skyblue', edgecolor='black')
+plt.title('Frequency of Park Types in Hamilton County')
+plt.ylabel('Count')
+plt.show()
+
+
+# In[18]:
+
+
+#(Seaborn) Top 10 Largest Parks) 
+import seaborn as sns
+top_10 = parks.nlargest(10, 'SHAPE__Area')
+plt.figure(figsize=(10,6))
+sns.barplot(data=top_10, x='SHAPE__Area', y='NAME', palette='viridis')
+plt.title('Top 10 Largest Green Spaces by Area')
+plt.show()
+
+
+# In[19]:
+
+
+#(Matplotlib) Neighborhood Acreage Distribution
+plt.figure(figsize=(10,6))
+plt.hist(neighborhoods['ACRES'], bins=20, color='orange', alpha=0.7)
+plt.title('Distribution of Neighborhood Total Acreage')
+plt.xlabel('Acres')
+plt.show()
+
+
+# In[20]:
+
+
+#(Seaborn) Successful Linkage Audit
+plt.figure(figsize=(8,8))
+linkage_counts = parks['SNA_NAME'].apply(lambda x: 'Linked' if x != 'Other/Unlinked' else 'Unlinked').value_counts()
+plt.pie(linkage_counts, labels=linkage_counts.index, autopct='%1.1f%%', colors=['#66b3ff','#99ff99'])
+plt.title('Data Cleaning: Percentage of Parks Linked to Neighborhoods')
+plt.show()
+
+
 # ## Resources and References
 # *What resources and references have you used for this project?*
 # 📝 <!-- Answer Below -->
 
-# In[8]:
+# In[11]:
 
 
 # ⚠️ Make sure you run this cell at the end of your notebook before every submission!
