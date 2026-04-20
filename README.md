@@ -5,7 +5,7 @@
 
 ## Self Assessment and Reflection
 
-<!-- Edit the following section with your self assessment and reflection -->
+
 
 ### Self Assessment
 <!-- Replace the (...) with your score -->
@@ -19,19 +19,18 @@
 | **Total**         | 70 / 70 |
 
 ### Reflection
-<!-- Edit the following section with your reflection -->
 
 #### What went well?
-Reaserching dataset and topics went well.
+I was able to find good data for my project. When I realized I couldn't merge my two files (because they didn't share common keys), I didn't get stuck. I changed my plan and analyzed the data separately, which helped me explain the "Green Desert" topic clearly.
 
 #### What did not go well?
-Time-mangaement
+I wasted too much time trying to fix a merge that was impossible. In the future, I will check if my files can actually be merged before I start working on them, so I don't waste time later.
 
 #### What did you learn?
-How to clone and upload datasets in folder in github.
+I learned how to use Git/GitHub and how to build machine learning pipelines. Most importantly, I learned that it is okay to admit when data doesn't fit together. Identifying limitations in your data is just as important as getting good results from the model.
 
 #### What would you do differently next time?
-I will try to manage time effectively.
+Next time, I will check if my datasets fit together as soon as I load them. I will also make sure to leave extra time in my schedule in case I have to change my plan again, so I don't feel rushed at the end.
 ---
 
 ## Getting Started
