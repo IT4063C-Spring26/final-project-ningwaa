@@ -57,7 +57,7 @@
 # 
 # 3. Census API Data: I will use the API to pull median household income for each neighborhood. I will then plot this against the green space percentage found in my CSVs.
 
-# In[24]:
+# In[22]:
 
 
 # Start your code here
@@ -81,7 +81,7 @@ except FileNotFoundError as e:
     print(f"❌ Error: {e}. Make sure the files are in the exact same folder as this script!")
 
 
-# In[25]:
+# In[2]:
 
 
 import matplotlib.pyplot as plt
@@ -131,14 +131,14 @@ plt.show()
 # 
 # 
 
-# In[8]:
+# In[3]:
 
 
 print("Neighborhoods columns:", neighborhoods.columns.tolist())
 print("Parks columns:", parks.columns.tolist())
 
 
-# In[26]:
+# In[4]:
 
 
 # To see if the name of a park contains the neighborhood name
@@ -150,7 +150,7 @@ print("Sample Parks:", sample_parks.values)
 print("Sample Neighborhoods:", sample_neighborhoods.values)
 
 
-# In[29]:
+# In[5]:
 
 
 #DataCleaning
@@ -172,7 +172,7 @@ print(found_anomalies[['NAME', 'PARKTYPE']].head(10))
 # Action: I have flagged these {is_anomaly.sum()} entries for removal.
 # Reasoning: Including these sites would artificially inflate the "Greenness" score of highly urbanized neighborhoods. To accurately measure the "Green Gap," I must focus only on accessible public parks and nature preserves.
 
-# In[31]:
+# In[6]:
 
 
 # Clean code
@@ -183,41 +183,61 @@ print(f"Rows removed: {len(parks) - len(parks_cleaned)}")
 print(f"Remaining parks for analysis: {len(parks_cleaned)}")
 
 
-# In[34]:
+# In[7]:
 
 
 # Data Cleaning 2
+def link_neighborhood(park_name):
+
+    park_str = str(park_name).lower().strip()
+    neighborhood_list = ['westwood', 'oakley', 'clifton', 'downtown', 'mt. airy', 'hyde park'] 
+
+    for n in neighborhood_list:
+        if n in park_str:
+            return n
+    return "other/unlinked"
+
+
+# In[8]:
+
+
+parks_cleaned['NAME'] = parks_cleaned['NAME'].str.lower().str.strip()
+
+neighborhoods['SNA_NAME'] = neighborhoods['SNA_NAME'].str.lower().str.strip()
+
+
+# In[9]:
+
+
 parks_cleaned['SNA_NAME'] = parks_cleaned['NAME'].apply(link_neighborhood)
 neighborhood_greenery = parks_cleaned.groupby('SNA_NAME')['SHAPE__Area'].sum().reset_index()
+
 
 neighborhood_greenery.columns = ['SNA_NAME', 'total_park_area']
 print(neighborhood_greenery.head())
 
 
-# In[35]:
+# In[10]:
 
 
-# 1. Merge the aggregated park data with your 50 Neighborhoods
 final_df = pd.merge(neighborhoods, neighborhood_greenery, on='SNA_NAME', how='left')
-
-# 2. Imputation: Change NaN to 0 for neighborhoods that didn't match a park name
 final_df['total_park_area'] = final_df['total_park_area'].fillna(0)
-
-# 3. Calculate the 'Green Ratio' (Park Area divided by Neighborhood Total Area)
 final_df['green_ratio'] = final_df['total_park_area'] / final_df['ACRES']
 
-print("--- Top 5 Greenest Neighborhoods (Based on Keyword Matches) ---")
-print(final_df[['SNA_NAME', 'green_ratio']].sort_values(by='green_ratio', ascending=False).head())
+print("Top Greenest Neighborhoods (Successful Matches)")
+print(final_df[final_df['green_ratio'] > 0][['SNA_NAME', 'green_ratio']].sort_values(by='green_ratio', ascending=False).head())
 
 
 # Analysis: The Green Space Ratio
-# By merging the cleaned park data with the official neighborhood boundaries, I have created a Green Ratio metric. This value represents the percentage of a neighborhood's total acreage that is dedicated to public parks.
+# Standardization: I applied lowercase conversion and whitespace stripping to both the NAME (Parks) and SNA_NAME (Neighborhoods) columns to ensure consistent joining.
 # 
-# Data Normalization: This step is crucial because comparing raw acreage would unfairly favor large neighborhoods like Westwood. The ratio allows for an apples-to-apples comparison of green access regardless of neighborhood size.
+# Imputation: I used .fillna(0) to handle neighborhoods where no keyword match was found. This prevents statistical errors during the Green Ratio calculation.
 # 
-# Current Limitation: Because this is based on string-matching, neighborhoods with zero parks currently listed may actually have parks that were simply not named after the neighborhood (e.g., Eden Park in Walnut Hills). This will be resolved in the final project via Spatial Joining.
+# Metric: The green_ratio represents the percentage of neighborhood land dedicated to parks.
+# 
+# Note for Final Project: While string-matching linked key neighborhoods like Mt. Airy and Westwood, many entries remain "Other/Unlinked." This justifies the use of a Spatial Join (GeoPandas) in the final phase to map parks to neighborhoods by coordinates.
 
-# In[36]:
+# In[11]:
 
 
 # Data Cleaning 3
@@ -233,7 +253,7 @@ print(parks_cleaned['NAME'].head())
 # 
 # The Reason: This "Case Folding" technique ensures that string-matching is case-insensitive, significantly increasing the count of successfully linked parks and reducing data fragmentation.
 
-# In[37]:
+# In[12]:
 
 
 #Visualization
@@ -247,7 +267,7 @@ plt.xticks(rotation=45)
 plt.show()
 
 
-# In[38]:
+# In[13]:
 
 
 # Data Cleaning 4
@@ -257,7 +277,7 @@ missing_count = final_df['total_park_area'].isna().sum()
 print(f"Neighborhoods with no linked parks (NaN): {missing_count}")
 
 
-# In[39]:
+# In[14]:
 
 
 final_df['total_park_area'] = final_df['total_park_area'].fillna(0)
@@ -270,7 +290,7 @@ print(f"Neighborhoods with NaN after fix: {final_df['total_park_area'].isna().su
 # 
 # The Reason: This is a necessary step for Data Integrity. Mathematical operations—specifically the calculation of the Green Space Ratio—cannot be performed on null values. By converting these to zero, I ensure that every neighborhood is represented in the final statistical model.
 
-# In[40]:
+# In[15]:
 
 
 #Final Check
@@ -278,9 +298,9 @@ final_df['green_ratio'] = final_df['total_park_area'] / final_df['ACRES']
 print(final_df[['SNA_NAME', 'total_park_area', 'green_ratio']].head(10))
 
 
-# #section: Visualization
+# #section: Visualizations
 
-# In[17]:
+# In[16]:
 
 
 #(Matplotlib) Distribution of Park Types
@@ -292,7 +312,7 @@ plt.ylabel('Count')
 plt.show()
 
 
-# In[18]:
+# In[17]:
 
 
 #(Seaborn) Top 10 Largest Parks) 
@@ -304,7 +324,7 @@ plt.title('Top 10 Largest Green Spaces by Area')
 plt.show()
 
 
-# In[19]:
+# In[18]:
 
 
 #(Matplotlib) Neighborhood Acreage Distribution
@@ -315,7 +335,7 @@ plt.xlabel('Acres')
 plt.show()
 
 
-# In[20]:
+# In[19]:
 
 
 #(Seaborn) Successful Linkage Audit
@@ -326,11 +346,155 @@ plt.title('Data Cleaning: Percentage of Parks Linked to Neighborhoods')
 plt.show()
 
 
+#  1. Machine Learning Plan
+#  What type of machine learning model are you planning to use?
+#  I am framing this as a Regression problem. My goal is to predict a "Green Access Score" for various census neighborhoods in Cincinnati.
+# Primary Model: I plan to use a Random Forest Regressor or Gradient Boosting because these models excel at handling non-linear relationships between socioeconomic variables (like median income and population density) and environmental outcomes.
+# 
+# What are the challenges have you identified/are you anticipating in building your machine learning model?
+# Spatial Autocorrelation: Traditional ML models assume data points are independent. However, neighborhoods next to each other are likely to have similar green space levels. This "spatial dependency" can violate standard model assumptions.
+# 
+# Feature Complexity: Identifying the right proxies for "green space" (NDVI—Normalized Difference Vegetation Index, park acreage, or distance to the nearest park) and ensuring they don't leak information is difficult.
+# 
+# Data Heterogeneity: Combining disparate datasets—such as Census demographic data (income, age) and GIS/Satellite imagery data (tree canopy, park boundaries)—poses a structural challenge.
+# 
+# How are you planning to address these challenges?
+# Spatial Awareness: To address autocorrelation, I will include spatial lag features (the average value of neighbors) in my feature set to capture regional trends.
+# 
+# Feature Engineering: I will create composite features that normalize green space ("Park Acres per 1,000 Residents") rather than raw numbers to ensure fair comparisons between high-density and low-density areas.
+# 
+# Rigorous Validation: Instead of standard cross-validation, I will use Spatial K-Fold Cross-Validation, which ensures that the training and test sets are geographically separated, providing a more realistic assessment of model performance.
+
+# 2. Machine Learning Implementation Process
+# (Ask, Prepare, Process, Analyze, Evaluate, Share)
+# 
+# This includes:
+# * EDA process that allows for identifying issues
+# - Visual Analysis: I will plot "Green Access Score" heatmaps across Cincinnati neighborhoods to visually identify clusters of low-access areas.
+# 
+# - Correlation Matrix: I will use a heatmap to check for multicollinearity between socioeconomic variables (e.g., if "Percent Renter" and "Median Income" are perfectly correlated, I may drop one to simplify the model).
+# 
+# - Distribution Check: I will inspect the target variable's distribution; if it is heavily skewed (most neighborhoods have very little green space), I may apply a log transformation to normalize it.
+# 
+# * Splitting the dataset into training and test sets
+# - I will use train_test_split with a 75/25 ratio.
+# Given the geographic nature of the data, I will ensure the split is done in a way that maintains representative neighborhoods in both sets, perhaps by grouping by "Planning District."
+# 
+# * Data imputation
+# - Use SimpleImputer(strategy='median') to handle missing demographic data in specific census tracts.
+# 
+# * Data Scaling and Normalization
+# - Use StandardScaler to ensure features with different units (population count vs median income) are on a comparable scale, which is critical for model convergence.
+# 
+# * Handling of Categorical Data
+# - Use OneHotEncoder for neighborhood-specific indicators or categorical land-use types.
+# 
+# * Testing multiple algorithms and models
+# - Algorithms: I will test a Linear Regression, Random Forest, and Support Vector Regressor (SVR).
+# 
+# * Evaluating the different models and choosing one.
+# - Final Choice: I will select the model that provides the highest predictive power without overfitting, using Feature Importance plots to explain to stakeholders which socioeconomic factors are the biggest drivers of green space inequality in Cincinnati.
+
+# What feedback did you receive from your peers and/or the teaching team?
+# - At this stage of the project, I have not yet received formal feedback from outside reviewers. In the meantime, I have done a self-check to find possible problems and areas that can be improved.
+# 
+# What changes have you made to your project based on this feedback?
+# - Based on my self-check, I made a few improvements:
+# 
+# Dataset validation: I found differences in how detailed the census data was. I added a data cleaning step to make sure all geographic boundaries match before combining the datasets.
+# 
+# Scope refinement: I changed my focus from a general “Green Space” measure to a more specific “Per-Capita Access Score.” This helps better account for differences in population across Cincinnati neighborhoods.
+
+# In[ ]:
+
+
+#Training Model
+features = ['ACRES', 'SHAPE__Area'] # Use the columns you have
+target = 'SHAPE_LENG' # Predict length or another metric
+
+
+# In[30]:
+
+
+cols_neighborhoods = set(neighborhoods.columns)
+cols_parks = set(parks.columns)
+
+shared_columns = cols_neighborhoods.intersection(cols_parks)
+print(f"The only shared columns are: {shared_columns}")
+
+
+# In[31]:
+
+
+features = ['SNA_NUMBER', 'SHAPE_LENG'] 
+target = 'ACRES'
+
+X = neighborhoods[features]
+y = neighborhoods[target]
+
+
+# In[33]:
+
+
+import pandas as pd
+import matplotlib.pyplot as plt
+from sklearn.model_selection import train_test_split
+from sklearn.pipeline import Pipeline
+from sklearn.impute import SimpleImputer
+from sklearn.preprocessing import StandardScaler
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.metrics import mean_squared_error, r2_score, root_mean_squared_error
+
+# 1. Load Data
+neighborhoods = pd.read_csv('Cincinnati_Statistical_Neighborhood_Approximations_2020.csv')
+
+features = ['SNA_NUMBER', 'SHAPE_LENG'] 
+target = 'ACRES'
+
+X = neighborhoods[features]
+y = neighborhoods[target]
+
+# 3. Build Pipeline
+pipeline = Pipeline([
+    ('imputer', SimpleImputer(strategy='median')),
+    ('scaler', StandardScaler()),
+    ('model', RandomForestRegressor(n_estimators=100, random_state=42))
+])
+
+# 4. Train and Evaluate
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+pipeline.fit(X_train, y_train)
+
+preds = pipeline.predict(X_test)
+
+print("--- Machine Learning Analysis (Neighborhoods) ---")
+print(f"Model R2 Score: {r2_score(y_test, preds):.2f}")
+print(f"Model RMSE: {root_mean_squared_error(y_test, preds):.2f}")
+
+
+
+# 1. Load Data
+parks = pd.read_csv('Hamilton_County_Parks_and_Greenspace_-_Open_Data.csv')
+
+# 2. Analyze Green Space Distribution
+print("\n--- Descriptive EDA (Parks) ---")
+print(f"Total Park Count: {len(parks)}")
+print(f"Average Park Size: {parks['SHAPE__Area'].mean():.2f} sq units")
+
+# 3. Visualize
+plt.figure(figsize=(10, 6))
+plt.hist(parks['SHAPE__Area'], bins=50, color='green', edgecolor='black')
+plt.title('Distribution of Park Sizes in Hamilton County')
+plt.xlabel('Area (Square Units)')
+plt.ylabel('Frequency')
+plt.show()
+
+
 # ## Resources and References
 # *What resources and references have you used for this project?*
 # 📝 <!-- Answer Below -->
 
-# In[41]:
+# In[34]:
 
 
 # ⚠️ Make sure you run this cell at the end of your notebook before every submission!
