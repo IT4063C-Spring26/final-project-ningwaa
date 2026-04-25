@@ -371,7 +371,7 @@ print(f"Intercept: {model.intercept_}")
 # 
 # We found that streaming movies tend to have slightly lower ratings compared to theatrical releases, which suggests that theater movies often receive better critical attention. We also found that higher budgets are linked to better movie performance, showing that bigger investments usually lead to stronger results.
 
-# In[56]:
+# In[60]:
 
 
 # ⚠️ Make sure you run this cell at the end of your notebook before every submission!
