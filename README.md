@@ -21,7 +21,7 @@
 ### Reflection
 
 #### What went well?
-I was able to find good data for my project. When I realized I couldn't merge my two files (because they didn't share common keys), I didn't get stuck. I changed my plan and analyzed the data separately, which helped me explain the "Green Desert" topic clearly.
+When the datasets (IMDb, Netflix, and TMDB) didn’t match well using clean shared keys, I didn’t force them to combine incorrectly. Instead, I changed the approach and adjusted the analysis so it could work with the data properly without creating errors.
 
 #### What did not go well?
 I wasted too much time trying to fix a merge that was impossible. In the future, I will check if my files can actually be merged before I start working on them, so I don't waste time later.
