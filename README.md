@@ -5,27 +5,32 @@
 
 ## Self Assessment and Reflection
 
-<!-- Edit the following section with your self assessment and reflection -->
+
 
 ### Self Assessment
 <!-- Replace the (...) with your score -->
 
 | Category          | Score    |
 | ----------------- | -------- |
-| **Setup**         | ... / 10 |
-| **Execution**     | ... / 20 |
-| **Documentation** | ... / 10 |
-| **Presentation**  | ... / 30 |
-| **Total**         | ... / 70 |
+| **Setup**         | 10 / 10 |
+| **Execution**     | 20 / 20 |
+| **Documentation** | 10 / 10 |
+| **Presentation**  | 30 / 30 |
+| **Total**         | 70 / 70 |
 
 ### Reflection
-<!-- Edit the following section with your reflection -->
 
 #### What went well?
-#### What did not go well?
-#### What did you learn?
-#### What would you do differently next time?
+When the datasets (IMDb, Netflix, and TMDB) didn’t match well using clean shared keys, I didn’t force them to combine incorrectly. Instead, I changed the approach and adjusted the analysis so it could work with the data properly without creating errors.
 
+#### What did not go well?
+I wasted too much time trying to fix a merge that was impossible. In the future, I will check if my files can actually be merged before I start working on them, so I don't waste time later.
+
+#### What did you learn?
+I learned how to use Git/GitHub and how to build machine learning pipelines. Most importantly, I learned that it is okay to admit when data doesn't fit together. Identifying limitations in your data is just as important as getting good results from the model.
+
+#### What would you do differently next time?
+Next time, I will check if my datasets fit together as soon as I load them. I will also make sure to leave extra time in my schedule in case I have to change my plan again, so I don't feel rushed at the end.
 ---
 
 ## Getting Started
